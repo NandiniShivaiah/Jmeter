@@ -1,0 +1,616 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,URL,Latency,IdleTime,Connect
+1706952670627,620,"homepage/cdn/shop/files/Website_Banner_Pop_Style_1_1296x.png-1,875",200,OK,Thread Group 1-1,bin,true,,85011,645,1,1,https://casekaro.com/cdn/shop/files/Website_Banner_Pop_Style_1_1296x.png?v=1686152800,598,0,514
+1706952671279,85,"homepage/cdn/shop/files/Banner_2_1728x.jpg-1,876",200,OK,Thread Group 1-1,bin,true,,153686,627,1,1,https://casekaro.com/cdn/shop/files/Banner_2_1728x.jpg?v=1635500417,72,0,0
+1706952671365,65,"homepage/cdn/shop/files/Website_Banner_soft_Style.png-1,874",200,OK,Thread Group 1-1,bin,true,,96459,638,1,1,https://casekaro.com/cdn/shop/files/Website_Banner_soft_Style.png?v=1686207383,57,0,0
+1706952671433,303,"homepage/-1,889",200,OK,Thread Group 1-1,text,true,,31068,693,1,1,https://casekaro.com/,302,0,0
+1706952671753,148,"homepage/%3Cscript%20src=-1,895",404,Not Found,Thread Group 1-1,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[404]]]
+
+****** comparison: [[[200]]]
+
+/",25674,1164,1,1,https://casekaro.com/%3Cscript%20src=,148,0,0
+1706952671904,78,"homepage/checkouts/internal/preloads.js-1,899",200,OK,Thread Group 1-1,text,true,,2011,1233,1,1,https://casekaro.com/checkouts/internal/preloads.js?permanent-domain=casekaro24.myshopify.com&locale=en-IN,78,0,0
+1706952671986,348,"homepage/.well-known/shopify/monorail/unstable/produce_batch-1,891",200,OK,Thread Group 1-1,,true,,1118,1787,1,1,https://casekaro.com/.well-known/shopify/monorail/unstable/produce_batch,348,0,0
+1706952672337,342,"homepage/.well-known/shopify/monorail/unstable/produce_batch-1,911",200,OK,Thread Group 1-1,,true,,1120,1528,2,2,https://casekaro.com/.well-known/shopify/monorail/unstable/produce_batch,342,0,0
+1706952672553,224,"homepage/cdn/shop/files/Website_Banner_Pop_Style_1_1296x.png-1,875",200,OK,Thread Group 1-2,bin,true,,85009,645,2,2,https://casekaro.com/cdn/shop/files/Website_Banner_Pop_Style_1_1296x.png?v=1686152800,213,0,132
+1706952672786,82,"homepage/cdn/shop/files/Banner_2_1728x.jpg-1,876",200,OK,Thread Group 1-2,bin,true,,153690,627,2,2,https://casekaro.com/cdn/shop/files/Banner_2_1728x.jpg?v=1635500417,70,0,0
+1706952672870,63,"homepage/cdn/shop/files/Website_Banner_soft_Style.png-1,874",200,OK,Thread Group 1-2,bin,true,,96457,638,2,2,https://casekaro.com/cdn/shop/files/Website_Banner_soft_Style.png?v=1686207383,57,0,0
+1706952672686,332,"homepage/.well-known/shopify/monorail/unstable/produce_batch-1,919",200,OK,Thread Group 1-1,,true,,1120,2176,2,2,https://casekaro.com/.well-known/shopify/monorail/unstable/produce_batch,332,0,0
+1706952672936,267,"homepage/-1,889",200,OK,Thread Group 1-2,text,true,,31201,693,2,2,https://casekaro.com/,266,0,0
+1706952673208,202,"homepage/%3Cscript%20src=-1,895",404,Not Found,Thread Group 1-2,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[404]]]
+
+****** comparison: [[[200]]]
+
+/",25534,1164,2,2,https://casekaro.com/%3Cscript%20src=,202,0,0
+1706952673412,91,"homepage/checkouts/internal/preloads.js-1,899",200,OK,Thread Group 1-2,text,true,,2015,1233,2,2,https://casekaro.com/checkouts/internal/preloads.js?permanent-domain=casekaro24.myshopify.com&locale=en-IN,91,0,0
+1706952673506,403,"homepage/.well-known/shopify/monorail/unstable/produce_batch-1,891",200,OK,Thread Group 1-2,,true,,1122,1787,2,2,https://casekaro.com/.well-known/shopify/monorail/unstable/produce_batch,403,0,0
+1706952673020,1098,"homepage/.well-known/shopify/monorail/unstable/produce_batch-1,924",200,OK,Thread Group 1-1,,true,,1119,3227,2,2,https://casekaro.com/.well-known/shopify/monorail/unstable/produce_batch,1098,0,0
+1706952673911,352,"homepage/.well-known/shopify/monorail/unstable/produce_batch-1,911",200,OK,Thread Group 1-2,,true,,1126,1528,2,2,https://casekaro.com/.well-known/shopify/monorail/unstable/produce_batch,352,0,0
+1706952674120,337,"homepage/.well-known/shopify/monorail/unstable/produce_batch-1,923",200,OK,Thread Group 1-1,,true,,1118,2385,2,2,https://casekaro.com/.well-known/shopify/monorail/unstable/produce_batch,337,0,0
+1706952674265,356,"homepage/.well-known/shopify/monorail/unstable/produce_batch-1,919",200,OK,Thread Group 1-2,,true,,1118,2176,3,3,https://casekaro.com/.well-known/shopify/monorail/unstable/produce_batch,356,0,0
+1706952674459,330,"homepage/.well-known/shopify/monorail/unstable/produce_batch-1,928",200,OK,Thread Group 1-1,,true,,1120,2276,3,3,https://casekaro.com/.well-known/shopify/monorail/unstable/produce_batch,330,0,0
+1706952674550,288,"homepage/cdn/shop/files/Website_Banner_Pop_Style_1_1296x.png-1,875",200,OK,Thread Group 1-3,bin,true,,85011,645,3,3,https://casekaro.com/cdn/shop/files/Website_Banner_Pop_Style_1_1296x.png?v=1686152800,278,0,215
+1706952674840,80,"homepage/cdn/shop/files/Banner_2_1728x.jpg-1,876",200,OK,Thread Group 1-3,bin,true,,153678,627,3,3,https://casekaro.com/cdn/shop/files/Banner_2_1728x.jpg?v=1635500417,69,0,0
+1706952674623,376,"homepage/.well-known/shopify/monorail/unstable/produce_batch-1,924",200,OK,Thread Group 1-2,,true,,1114,3227,3,3,https://casekaro.com/.well-known/shopify/monorail/unstable/produce_batch,376,0,0
+1706952674921,80,"homepage/cdn/shop/files/Website_Banner_soft_Style.png-1,874",200,OK,Thread Group 1-3,bin,true,,96461,638,3,3,https://casekaro.com/cdn/shop/files/Website_Banner_soft_Style.png?v=1686207383,78,0,0
+1706952674790,340,"homepage/.well-known/shopify/monorail/unstable/produce_batch-1,941",200,OK,Thread Group 1-1,,true,,1120,3701,3,3,https://casekaro.com/.well-known/shopify/monorail/unstable/produce_batch,340,0,0
+1706952675002,153,"homepage/-1,889",200,OK,Thread Group 1-3,text,true,,31053,693,3,3,https://casekaro.com/,153,0,0
+1706952675134,213,"mobile/%3Cscript%20src=-1,993",404,Not Found,Thread Group 1-1,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[404]]]
+
+****** comparison: [[[200]]]
+
+/",25728,1164,3,3,https://casekaro.com/%3Cscript%20src=,213,0,0
+1706952675001,354,"homepage/.well-known/shopify/monorail/unstable/produce_batch-1,923",200,OK,Thread Group 1-2,,true,,1128,2385,3,3,https://casekaro.com/.well-known/shopify/monorail/unstable/produce_batch,354,0,0
+1706952675160,204,"homepage/%3Cscript%20src=-1,895",404,Not Found,Thread Group 1-3,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[404]]]
+
+****** comparison: [[[200]]]
+
+/",25578,1164,3,3,https://casekaro.com/%3Cscript%20src=,204,0,0
+1706952675351,85,"mobile/checkouts/internal/preloads.js-1,998",200,OK,Thread Group 1-1,text,true,,2003,1233,3,3,https://casekaro.com/checkouts/internal/preloads.js?permanent-domain=casekaro24.myshopify.com&locale=en-IN,85,0,0
+1706952675366,113,"homepage/checkouts/internal/preloads.js-1,899",200,OK,Thread Group 1-3,text,true,,2009,1233,3,3,https://casekaro.com/checkouts/internal/preloads.js?permanent-domain=casekaro24.myshopify.com&locale=en-IN,113,0,0
+1706952675357,359,"homepage/.well-known/shopify/monorail/unstable/produce_batch-1,928",200,OK,Thread Group 1-2,,true,,1116,2276,3,3,https://casekaro.com/.well-known/shopify/monorail/unstable/produce_batch,359,0,0
+1706952675438,339,"mobile/.well-known/shopify/monorail/unstable/produce_batch-1,990",200,OK,Thread Group 1-1,,true,,1116,1790,3,3,https://casekaro.com/.well-known/shopify/monorail/unstable/produce_batch,339,0,0
+1706952675480,358,"homepage/.well-known/shopify/monorail/unstable/produce_batch-1,891",200,OK,Thread Group 1-3,,true,,1120,1787,3,3,https://casekaro.com/.well-known/shopify/monorail/unstable/produce_batch,358,0,0
+1706952675719,354,"homepage/.well-known/shopify/monorail/unstable/produce_batch-1,941",200,OK,Thread Group 1-2,,true,,1118,3701,3,3,https://casekaro.com/.well-known/shopify/monorail/unstable/produce_batch,354,0,0
+1706952675779,344,"mobile/.well-known/shopify/monorail/unstable/produce_batch-2,008",200,OK,Thread Group 1-1,,true,,1118,1528,3,3,https://casekaro.com/.well-known/shopify/monorail/unstable/produce_batch,344,0,0
+1706952675840,354,"homepage/.well-known/shopify/monorail/unstable/produce_batch-1,911",200,OK,Thread Group 1-3,,true,,1114,1528,3,3,https://casekaro.com/.well-known/shopify/monorail/unstable/produce_batch,354,0,0
+1706952676076,150,"mobile/%3Cscript%20src=-1,993",404,Not Found,Thread Group 1-2,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[404]]]
+
+****** comparison: [[[200]]]
+
+/",25583,1164,3,3,https://casekaro.com/%3Cscript%20src=,150,0,0
+1706952676230,65,"mobile/checkouts/internal/preloads.js-1,998",200,OK,Thread Group 1-2,text,true,,2009,1233,3,3,https://casekaro.com/checkouts/internal/preloads.js?permanent-domain=casekaro24.myshopify.com&locale=en-IN,65,0,0
+1706952676124,343,"mobile/.well-known/shopify/monorail/unstable/produce_batch-2,012",200,OK,Thread Group 1-1,,true,,1114,2176,3,3,https://casekaro.com/.well-known/shopify/monorail/unstable/produce_batch,343,0,0
+1706952676196,366,"homepage/.well-known/shopify/monorail/unstable/produce_batch-1,919",200,OK,Thread Group 1-3,,true,,1114,2176,4,4,https://casekaro.com/.well-known/shopify/monorail/unstable/produce_batch,366,0,0
+1706952676297,361,"mobile/.well-known/shopify/monorail/unstable/produce_batch-1,990",200,OK,Thread Group 1-2,,true,,1124,1790,4,4,https://casekaro.com/.well-known/shopify/monorail/unstable/produce_batch,361,0,0
+1706952676536,203,"homepage/cdn/shop/files/Website_Banner_Pop_Style_1_1296x.png-1,875",200,OK,Thread Group 1-4,bin,true,,85001,645,4,4,https://casekaro.com/cdn/shop/files/Website_Banner_Pop_Style_1_1296x.png?v=1686152800,200,0,123
+1706952676742,66,"homepage/cdn/shop/files/Banner_2_1728x.jpg-1,876",200,OK,Thread Group 1-4,bin,true,,153680,627,4,4,https://casekaro.com/cdn/shop/files/Banner_2_1728x.jpg?v=1635500417,55,0,0
+1706952676469,342,"mobile/.well-known/shopify/monorail/unstable/produce_batch-2,015",200,OK,Thread Group 1-1,,true,,1118,2385,4,4,https://casekaro.com/.well-known/shopify/monorail/unstable/produce_batch,342,0,0
+1706952676809,71,"homepage/cdn/shop/files/Website_Banner_soft_Style.png-1,874",200,OK,Thread Group 1-4,bin,true,,96459,638,4,4,https://casekaro.com/cdn/shop/files/Website_Banner_soft_Style.png?v=1686207383,66,0,0
+1706952676563,357,"homepage/.well-known/shopify/monorail/unstable/produce_batch-1,924",200,OK,Thread Group 1-3,,true,,1130,3227,4,4,https://casekaro.com/.well-known/shopify/monorail/unstable/produce_batch,357,0,0
+1706952676660,355,"mobile/.well-known/shopify/monorail/unstable/produce_batch-2,008",200,OK,Thread Group 1-2,,true,,1118,1528,4,4,https://casekaro.com/.well-known/shopify/monorail/unstable/produce_batch,355,0,0
+1706952676882,149,"homepage/-1,889",200,OK,Thread Group 1-4,text,true,,31106,693,4,4,https://casekaro.com/,149,0,0
+1706952676811,339,"mobile/.well-known/shopify/monorail/unstable/produce_batch-2,017",200,OK,Thread Group 1-1,,true,,1118,3227,4,4,https://casekaro.com/.well-known/shopify/monorail/unstable/produce_batch,339,0,0
+1706952677034,170,"homepage/%3Cscript%20src=-1,895",404,Not Found,Thread Group 1-4,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[404]]]
+
+****** comparison: [[[200]]]
+
+/",25514,1164,4,4,https://casekaro.com/%3Cscript%20src=,170,0,0
+1706952676922,361,"homepage/.well-known/shopify/monorail/unstable/produce_batch-1,923",200,OK,Thread Group 1-3,,true,,1120,2385,4,4,https://casekaro.com/.well-known/shopify/monorail/unstable/produce_batch,361,0,0
+1706952677208,86,"homepage/checkouts/internal/preloads.js-1,899",200,OK,Thread Group 1-4,text,true,,2013,1233,4,4,https://casekaro.com/checkouts/internal/preloads.js?permanent-domain=casekaro24.myshopify.com&locale=en-IN,86,0,0
+1706952677016,355,"mobile/.well-known/shopify/monorail/unstable/produce_batch-2,012",200,OK,Thread Group 1-2,,true,,1126,2176,4,4,https://casekaro.com/.well-known/shopify/monorail/unstable/produce_batch,355,0,0
+1706952677152,359,"mobile/.well-known/shopify/monorail/unstable/produce_batch-2,029",200,OK,Thread Group 1-1,,true,,1116,4623,4,4,https://casekaro.com/.well-known/shopify/monorail/unstable/produce_batch,359,0,0
+1706952677285,353,"homepage/.well-known/shopify/monorail/unstable/produce_batch-1,928",200,OK,Thread Group 1-3,,true,,1124,2276,4,4,https://casekaro.com/.well-known/shopify/monorail/unstable/produce_batch,353,0,0
+1706952677295,355,"homepage/.well-known/shopify/monorail/unstable/produce_batch-1,891",200,OK,Thread Group 1-4,,true,,1124,1787,4,4,https://casekaro.com/.well-known/shopify/monorail/unstable/produce_batch,355,0,0
+1706952677372,359,"mobile/.well-known/shopify/monorail/unstable/produce_batch-2,015",200,OK,Thread Group 1-2,,true,,1116,2385,4,4,https://casekaro.com/.well-known/shopify/monorail/unstable/produce_batch,359,0,0
+1706952677513,268,"mobile/pages/mobile-back-covers-2,040",200,OK,Thread Group 1-1,text,true,,26794,1357,4,4,https://casekaro.com/pages/mobile-back-covers,268,0,0
+1706952677783,210,"mobile/pages/%3Cscript%20src=-2,044",404,Not Found,Thread Group 1-1,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[404]]]
+
+****** comparison: [[[200]]]
+
+/",25617,1194,4,4,https://casekaro.com/pages/%3Cscript%20src=,209,0,0
+1706952677639,356,"homepage/.well-known/shopify/monorail/unstable/produce_batch-1,941",200,OK,Thread Group 1-3,,true,,1132,3701,4,4,https://casekaro.com/.well-known/shopify/monorail/unstable/produce_batch,356,0,0
+1706952677652,351,"homepage/.well-known/shopify/monorail/unstable/produce_batch-1,911",200,OK,Thread Group 1-4,,true,,1126,1528,4,4,https://casekaro.com/.well-known/shopify/monorail/unstable/produce_batch,351,0,0
+1706952677996,67,"mobile/checkouts/internal/preloads.js-2,051",200,OK,Thread Group 1-1,text,true,,2004,1257,4,4,https://casekaro.com/checkouts/internal/preloads.js?permanent-domain=casekaro24.myshopify.com&locale=en-IN,67,0,0
+1706952677733,359,"mobile/.well-known/shopify/monorail/unstable/produce_batch-2,017",200,OK,Thread Group 1-2,,true,,1122,3227,4,4,https://casekaro.com/.well-known/shopify/monorail/unstable/produce_batch,359,0,0
+1706952677997,201,"mobile/%3Cscript%20src=-1,993",404,Not Found,Thread Group 1-3,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[404]]]
+
+****** comparison: [[[200]]]
+
+/",25682,1164,4,4,https://casekaro.com/%3Cscript%20src=,200,0,0
+1706952678201,75,"mobile/checkouts/internal/preloads.js-1,998",200,OK,Thread Group 1-3,text,true,,2014,1233,4,4,https://casekaro.com/checkouts/internal/preloads.js?permanent-domain=casekaro24.myshopify.com&locale=en-IN,75,0,0
+1706952678004,360,"homepage/.well-known/shopify/monorail/unstable/produce_batch-1,919",200,OK,Thread Group 1-4,,true,,1122,2176,4,4,https://casekaro.com/.well-known/shopify/monorail/unstable/produce_batch,360,0,0
+1706952678064,355,"mobile/.well-known/shopify/monorail/unstable/produce_batch-2,046",200,OK,Thread Group 1-1,,true,,1120,1784,4,4,https://casekaro.com/.well-known/shopify/monorail/unstable/produce_batch,355,0,0
+1706952678093,361,"mobile/.well-known/shopify/monorail/unstable/produce_batch-2,029",200,OK,Thread Group 1-2,,true,,1120,4623,4,4,https://casekaro.com/.well-known/shopify/monorail/unstable/produce_batch,361,0,0
+1706952678420,66,"mobile/wpm@cc636c01w77d84d94p0e8bf2ddmd75d25ae/web-pixel-shopify-custom-pixel@0575/sandbox/modern/pages/mobile-back-covers-2,063",200,OK,Thread Group 1-1,text,true,,18185,1450,4,4,https://casekaro.com/wpm@cc636c01w77d84d94p0e8bf2ddmd75d25ae/web-pixel-shopify-custom-pixel@0575/sandbox/modern/pages/mobile-back-covers,66,0,0
+1706952678455,151,"mobile/pages/mobile-back-covers-2,040",200,OK,Thread Group 1-2,text,true,,26874,1357,5,5,https://casekaro.com/pages/mobile-back-covers,151,0,0
+1706952678277,359,"mobile/.well-known/shopify/monorail/unstable/produce_batch-1,990",200,OK,Thread Group 1-3,,true,,1120,1790,5,5,https://casekaro.com/.well-known/shopify/monorail/unstable/produce_batch,359,0,0
+1706952678537,183,"homepage/cdn/shop/files/Website_Banner_Pop_Style_1_1296x.png-1,875",200,OK,Thread Group 1-5,bin,true,,85003,645,5,5,https://casekaro.com/cdn/shop/files/Website_Banner_Pop_Style_1_1296x.png?v=1686152800,145,0,88
+1706952678365,360,"homepage/.well-known/shopify/monorail/unstable/produce_batch-1,924",200,OK,Thread Group 1-4,,true,,1120,3227,5,5,https://casekaro.com/.well-known/shopify/monorail/unstable/produce_batch,360,0,0
+1706952678609,156,"mobile/pages/%3Cscript%20src=-2,044",404,Not Found,Thread Group 1-2,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[404]]]
+
+****** comparison: [[[200]]]
+
+/",25552,1194,5,5,https://casekaro.com/pages/%3Cscript%20src=,156,0,0
+1706952678488,331,"mobile/.well-known/shopify/monorail/unstable/produce_batch-2,064",200,OK,Thread Group 1-1,,true,,1122,1554,5,5,https://casekaro.com/.well-known/shopify/monorail/unstable/produce_batch,331,0,0
+1706952678725,103,"homepage/cdn/shop/files/Banner_2_1728x.jpg-1,876",200,OK,Thread Group 1-5,bin,true,,153678,627,5,5,https://casekaro.com/cdn/shop/files/Banner_2_1728x.jpg?v=1635500417,66,0,0
+1706952678769,79,"mobile/checkouts/internal/preloads.js-2,051",200,OK,Thread Group 1-2,text,true,,2009,1257,5,5,https://casekaro.com/checkouts/internal/preloads.js?permanent-domain=casekaro24.myshopify.com&locale=en-IN,79,0,0
+1706952678829,67,"homepage/cdn/shop/files/Website_Banner_soft_Style.png-1,874",200,OK,Thread Group 1-5,bin,true,,96461,638,5,5,https://casekaro.com/cdn/shop/files/Website_Banner_soft_Style.png?v=1686207383,60,0,0
+1706952678637,368,"mobile/.well-known/shopify/monorail/unstable/produce_batch-2,008",200,OK,Thread Group 1-3,,true,,1120,1528,5,5,https://casekaro.com/.well-known/shopify/monorail/unstable/produce_batch,368,0,0
+1706952678726,357,"homepage/.well-known/shopify/monorail/unstable/produce_batch-1,923",200,OK,Thread Group 1-4,,true,,1116,2385,5,5,https://casekaro.com/.well-known/shopify/monorail/unstable/produce_batch,357,0,0
+1706952678898,187,"homepage/-1,889",200,OK,Thread Group 1-5,text,true,,31192,693,5,5,https://casekaro.com/,187,0,0
+1706952678820,348,"mobile/.well-known/shopify/monorail/unstable/produce_batch-2,067",200,OK,Thread Group 1-1,,true,,1116,2328,5,5,https://casekaro.com/.well-known/shopify/monorail/unstable/produce_batch,348,0,0
+1706952678849,330,"mobile/.well-known/shopify/monorail/unstable/produce_batch-2,046",200,OK,Thread Group 1-2,,true,,1116,1784,5,5,https://casekaro.com/.well-known/shopify/monorail/unstable/produce_batch,330,0,0
+1706952679180,62,"mobile/wpm@cc636c01w77d84d94p0e8bf2ddmd75d25ae/web-pixel-shopify-custom-pixel@0575/sandbox/modern/pages/mobile-back-covers-2,063",200,OK,Thread Group 1-2,text,true,,18191,1450,5,5,https://casekaro.com/wpm@cc636c01w77d84d94p0e8bf2ddmd75d25ae/web-pixel-shopify-custom-pixel@0575/sandbox/modern/pages/mobile-back-covers,61,0,0
+1706952679090,217,"homepage/%3Cscript%20src=-1,895",404,Not Found,Thread Group 1-5,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[404]]]
+
+****** comparison: [[[200]]]
+
+/",25536,1164,5,5,https://casekaro.com/%3Cscript%20src=,216,0,0
+1706952679006,356,"mobile/.well-known/shopify/monorail/unstable/produce_batch-2,012",200,OK,Thread Group 1-3,,true,,1120,2176,5,5,https://casekaro.com/.well-known/shopify/monorail/unstable/produce_batch,356,0,0
+1706952679309,124,"homepage/checkouts/internal/preloads.js-1,899",200,OK,Thread Group 1-5,text,true,,2014,1233,5,5,https://casekaro.com/checkouts/internal/preloads.js?permanent-domain=casekaro24.myshopify.com&locale=en-IN,124,0,0
+1706952679084,358,"homepage/.well-known/shopify/monorail/unstable/produce_batch-1,928",200,OK,Thread Group 1-4,,true,,1118,2276,5,5,https://casekaro.com/.well-known/shopify/monorail/unstable/produce_batch,358,0,0
+1706952679169,345,"mobile/.well-known/shopify/monorail/unstable/produce_batch-2,071",200,OK,Thread Group 1-1,,true,,1120,2480,5,5,https://casekaro.com/.well-known/shopify/monorail/unstable/produce_batch,345,0,0
+1706952679243,334,"mobile/.well-known/shopify/monorail/unstable/produce_batch-2,064",200,OK,Thread Group 1-2,,true,,1122,1554,5,5,https://casekaro.com/.well-known/shopify/monorail/unstable/produce_batch,334,0,0
+1706952679364,367,"mobile/.well-known/shopify/monorail/unstable/produce_batch-2,015",200,OK,Thread Group 1-3,,true,,1116,2385,5,5,https://casekaro.com/.well-known/shopify/monorail/unstable/produce_batch,367,0,0
+1706952679434,348,"homepage/.well-known/shopify/monorail/unstable/produce_batch-1,891",200,OK,Thread Group 1-5,,true,,1122,1787,5,5,https://casekaro.com/.well-known/shopify/monorail/unstable/produce_batch,348,0,0
+1706952679443,353,"homepage/.well-known/shopify/monorail/unstable/produce_batch-1,941",200,OK,Thread Group 1-4,,true,,1120,3701,5,5,https://casekaro.com/.well-known/shopify/monorail/unstable/produce_batch,353,0,0
+1706952679516,345,"mobile/.well-known/shopify/monorail/unstable/produce_batch-2,072",200,OK,Thread Group 1-1,,true,,1116,3414,5,5,https://casekaro.com/.well-known/shopify/monorail/unstable/produce_batch,345,0,0
+1706952679578,329,"mobile/.well-known/shopify/monorail/unstable/produce_batch-2,067",200,OK,Thread Group 1-2,,true,,1120,2328,5,5,https://casekaro.com/.well-known/shopify/monorail/unstable/produce_batch,329,0,0
+1706952679798,155,"mobile/%3Cscript%20src=-1,993",404,Not Found,Thread Group 1-4,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[404]]]
+
+****** comparison: [[[200]]]
+
+/",25461,1164,5,5,https://casekaro.com/%3Cscript%20src=,154,0,0
+1706952679955,89,"mobile/checkouts/internal/preloads.js-1,998",200,OK,Thread Group 1-4,text,true,,2005,1233,5,5,https://casekaro.com/checkouts/internal/preloads.js?permanent-domain=casekaro24.myshopify.com&locale=en-IN,89,0,0
+1706952679732,359,"mobile/.well-known/shopify/monorail/unstable/produce_batch-2,017",200,OK,Thread Group 1-3,,true,,1124,3227,5,5,https://casekaro.com/.well-known/shopify/monorail/unstable/produce_batch,359,0,0
+1706952679783,349,"homepage/.well-known/shopify/monorail/unstable/produce_batch-1,911",200,OK,Thread Group 1-5,,true,,1120,1528,5,5,https://casekaro.com/.well-known/shopify/monorail/unstable/produce_batch,349,0,0
+1706952679862,348,"mobile/.well-known/shopify/monorail/unstable/produce_batch-2,083",200,OK,Thread Group 1-1,,true,,1120,4815,5,5,https://casekaro.com/.well-known/shopify/monorail/unstable/produce_batch,348,0,0
+1706952679909,318,"mobile/.well-known/shopify/monorail/unstable/produce_batch-2,071",200,OK,Thread Group 1-2,,true,,1118,2480,5,5,https://casekaro.com/.well-known/shopify/monorail/unstable/produce_batch,318,0,0
+1706952680211,59,"mobile/cdn/shop/files/Ckfinalpng_32x32.png-2,088",200,OK,Thread Group 1-1,bin,true,,2764,1280,5,5,https://casekaro.com/cdn/shop/files/Ckfinalpng_32x32.png?v=1613697399,59,0,0
+1706952680044,357,"mobile/.well-known/shopify/monorail/unstable/produce_batch-1,990",200,OK,Thread Group 1-4,,true,,1120,1790,5,5,https://casekaro.com/.well-known/shopify/monorail/unstable/produce_batch,357,0,0
+1706952680092,373,"mobile/.well-known/shopify/monorail/unstable/produce_batch-2,029",200,OK,Thread Group 1-3,,true,,1118,4623,5,5,https://casekaro.com/.well-known/shopify/monorail/unstable/produce_batch,373,0,0
+1706952680134,362,"homepage/.well-known/shopify/monorail/unstable/produce_batch-1,919",200,OK,Thread Group 1-5,,true,,1118,2176,5,5,https://casekaro.com/.well-known/shopify/monorail/unstable/produce_batch,362,0,0
+1706952680229,334,"mobile/.well-known/shopify/monorail/unstable/produce_batch-2,072",200,OK,Thread Group 1-2,,true,,1116,3414,5,5,https://casekaro.com/.well-known/shopify/monorail/unstable/produce_batch,334,0,0
+1706952680272,343,"mobile/.well-known/shopify/monorail/v1/produce-2,096",200,OK,Thread Group 1-1,,true,,1114,9266,5,5,https://casekaro.com/.well-known/shopify/monorail/v1/produce,343,0,0
+1706952680466,209,"mobile/pages/mobile-back-covers-2,040",200,OK,Thread Group 1-3,text,true,,26854,1357,5,5,https://casekaro.com/pages/mobile-back-covers,209,0,0
+1706952680403,363,"mobile/.well-known/shopify/monorail/unstable/produce_batch-2,008",200,OK,Thread Group 1-4,,true,,1122,1528,5,5,https://casekaro.com/.well-known/shopify/monorail/unstable/produce_batch,363,0,0
+1706952680617,191,"mobilepad/%3Cscript%20src=-2,436",404,Not Found,Thread Group 1-1,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[404]]]
+
+****** comparison: [[[200]]]
+
+/",25563,1164,5,5,https://casekaro.com/%3Cscript%20src=,191,0,0
+1706952680497,350,"homepage/.well-known/shopify/monorail/unstable/produce_batch-1,924",200,OK,Thread Group 1-5,,true,,1120,3227,5,5,https://casekaro.com/.well-known/shopify/monorail/unstable/produce_batch,350,0,0
+1706952680677,208,"mobile/pages/%3Cscript%20src=-2,044",404,Not Found,Thread Group 1-3,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[404]]]
+
+****** comparison: [[[200]]]
+
+/",25624,1194,5,5,https://casekaro.com/pages/%3Cscript%20src=,208,0,0
+1706952680564,352,"mobile/.well-known/shopify/monorail/unstable/produce_batch-2,083",200,OK,Thread Group 1-2,,true,,1124,4815,5,5,https://casekaro.com/.well-known/shopify/monorail/unstable/produce_batch,352,0,0
+1706952680888,76,"mobile/checkouts/internal/preloads.js-2,051",200,OK,Thread Group 1-3,text,true,,2009,1257,5,5,https://casekaro.com/checkouts/internal/preloads.js?permanent-domain=casekaro24.myshopify.com&locale=en-IN,76,0,0
+1706952680916,85,"mobile/cdn/shop/files/Ckfinalpng_32x32.png-2,088",200,OK,Thread Group 1-2,bin,true,,2760,1280,5,5,https://casekaro.com/cdn/shop/files/Ckfinalpng_32x32.png?v=1613697399,85,0,0
+1706952680766,350,"mobile/.well-known/shopify/monorail/unstable/produce_batch-2,012",200,OK,Thread Group 1-4,,true,,1122,2176,5,5,https://casekaro.com/.well-known/shopify/monorail/unstable/produce_batch,350,0,0
+1706952680809,327,"mobilepad/.well-known/shopify/monorail/unstable/produce_batch-2,438",200,OK,Thread Group 1-1,,true,,1118,1787,5,5,https://casekaro.com/.well-known/shopify/monorail/unstable/produce_batch,327,0,0
+1706952681136,66,"mobilepad/checkouts/internal/preloads.js-2,442",200,OK,Thread Group 1-1,text,true,,2017,1233,5,5,https://casekaro.com/checkouts/internal/preloads.js?permanent-domain=casekaro24.myshopify.com&locale=en-IN,66,0,0
+1706952680848,359,"homepage/.well-known/shopify/monorail/unstable/produce_batch-1,923",200,OK,Thread Group 1-5,,true,,1122,2385,5,5,https://casekaro.com/.well-known/shopify/monorail/unstable/produce_batch,359,0,0
+1706952680965,375,"mobile/.well-known/shopify/monorail/unstable/produce_batch-2,046",200,OK,Thread Group 1-3,,true,,1122,1784,5,5,https://casekaro.com/.well-known/shopify/monorail/unstable/produce_batch,375,0,0
+1706952681002,347,"mobile/.well-known/shopify/monorail/v1/produce-2,096",200,OK,Thread Group 1-2,,true,,1118,9266,5,5,https://casekaro.com/.well-known/shopify/monorail/v1/produce,347,0,0
+1706952681341,65,"mobile/wpm@cc636c01w77d84d94p0e8bf2ddmd75d25ae/web-pixel-shopify-custom-pixel@0575/sandbox/modern/pages/mobile-back-covers-2,063",200,OK,Thread Group 1-3,text,true,,18191,1450,5,5,https://casekaro.com/wpm@cc636c01w77d84d94p0e8bf2ddmd75d25ae/web-pixel-shopify-custom-pixel@0575/sandbox/modern/pages/mobile-back-covers,65,0,0
+1706952681117,360,"mobile/.well-known/shopify/monorail/unstable/produce_batch-2,015",200,OK,Thread Group 1-4,,true,,1120,2385,5,5,https://casekaro.com/.well-known/shopify/monorail/unstable/produce_batch,360,0,0
+1706952681203,343,"mobilepad/.well-known/shopify/monorail/unstable/produce_batch-2,451",200,OK,Thread Group 1-1,,true,,1114,1528,5,5,https://casekaro.com/.well-known/shopify/monorail/unstable/produce_batch,343,0,0
+1706952681351,206,"mobilepad/%3Cscript%20src=-2,436",404,Not Found,Thread Group 1-2,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[404]]]
+
+****** comparison: [[[200]]]
+
+/",25528,1164,5,5,https://casekaro.com/%3Cscript%20src=,206,0,0
+1706952681208,354,"homepage/.well-known/shopify/monorail/unstable/produce_batch-1,928",200,OK,Thread Group 1-5,,true,,1126,2276,5,5,https://casekaro.com/.well-known/shopify/monorail/unstable/produce_batch,354,0,0
+1706952681408,347,"mobile/.well-known/shopify/monorail/unstable/produce_batch-2,064",200,OK,Thread Group 1-3,,true,,1120,1554,5,5,https://casekaro.com/.well-known/shopify/monorail/unstable/produce_batch,347,0,0
+1706952681479,364,"mobile/.well-known/shopify/monorail/unstable/produce_batch-2,017",200,OK,Thread Group 1-4,,true,,1122,3227,5,5,https://casekaro.com/.well-known/shopify/monorail/unstable/produce_batch,364,0,0
+1706952681559,326,"mobilepad/.well-known/shopify/monorail/unstable/produce_batch-2,438",200,OK,Thread Group 1-2,,true,,1116,1787,5,5,https://casekaro.com/.well-known/shopify/monorail/unstable/produce_batch,326,0,0
+1706952681548,344,"mobilepad/.well-known/shopify/monorail/unstable/produce_batch-2,452",200,OK,Thread Group 1-1,,true,,1122,2176,5,5,https://casekaro.com/.well-known/shopify/monorail/unstable/produce_batch,344,0,0
+1706952681563,344,"homepage/.well-known/shopify/monorail/unstable/produce_batch-1,941",200,OK,Thread Group 1-5,,true,,1114,3701,5,5,https://casekaro.com/.well-known/shopify/monorail/unstable/produce_batch,344,0,0
+1706952681886,76,"mobilepad/checkouts/internal/preloads.js-2,442",200,OK,Thread Group 1-2,text,true,,2005,1233,5,5,https://casekaro.com/checkouts/internal/preloads.js?permanent-domain=casekaro24.myshopify.com&locale=en-IN,76,0,0
+1706952681909,149,"mobile/%3Cscript%20src=-1,993",404,Not Found,Thread Group 1-5,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[404]]]
+
+****** comparison: [[[200]]]
+
+/",25581,1164,5,5,https://casekaro.com/%3Cscript%20src=,148,0,0
+1706952682060,57,"mobile/checkouts/internal/preloads.js-1,998",200,OK,Thread Group 1-5,text,true,,2011,1233,5,5,https://casekaro.com/checkouts/internal/preloads.js?permanent-domain=casekaro24.myshopify.com&locale=en-IN,57,0,0
+1706952681756,362,"mobile/.well-known/shopify/monorail/unstable/produce_batch-2,067",200,OK,Thread Group 1-3,,true,,1124,2328,5,5,https://casekaro.com/.well-known/shopify/monorail/unstable/produce_batch,362,0,0
+1706952681893,327,"mobilepad/.well-known/shopify/monorail/unstable/produce_batch-2,456",200,OK,Thread Group 1-1,,true,,1124,2385,5,5,https://casekaro.com/.well-known/shopify/monorail/unstable/produce_batch,327,0,0
+1706952681844,391,"mobile/.well-known/shopify/monorail/unstable/produce_batch-2,029",200,OK,Thread Group 1-4,,true,,1122,4623,5,5,https://casekaro.com/.well-known/shopify/monorail/unstable/produce_batch,391,0,0
+1706952681964,335,"mobilepad/.well-known/shopify/monorail/unstable/produce_batch-2,451",200,OK,Thread Group 1-2,,true,,1114,1528,5,5,https://casekaro.com/.well-known/shopify/monorail/unstable/produce_batch,335,0,0
+1706952682236,155,"mobile/pages/mobile-back-covers-2,040",200,OK,Thread Group 1-4,text,true,,26867,1357,5,5,https://casekaro.com/pages/mobile-back-covers,155,0,0
+1706952682119,346,"mobile/.well-known/shopify/monorail/unstable/produce_batch-1,990",200,OK,Thread Group 1-5,,true,,1120,1790,5,5,https://casekaro.com/.well-known/shopify/monorail/unstable/produce_batch,346,0,0
+1706952682118,363,"mobile/.well-known/shopify/monorail/unstable/produce_batch-2,071",200,OK,Thread Group 1-3,,true,,1124,2480,5,5,https://casekaro.com/.well-known/shopify/monorail/unstable/produce_batch,363,0,0
+1706952682394,150,"mobile/pages/%3Cscript%20src=-2,044",404,Not Found,Thread Group 1-4,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[404]]]
+
+****** comparison: [[[200]]]
+
+/",25631,1194,5,5,https://casekaro.com/pages/%3Cscript%20src=,150,0,0
+1706952682221,341,"mobilepad/.well-known/shopify/monorail/unstable/produce_batch-2,457",200,OK,Thread Group 1-1,,true,,1120,3227,5,5,https://casekaro.com/.well-known/shopify/monorail/unstable/produce_batch,341,0,0
+1706952682546,70,"mobile/checkouts/internal/preloads.js-2,051",200,OK,Thread Group 1-4,text,true,,2012,1257,5,5,https://casekaro.com/checkouts/internal/preloads.js?permanent-domain=casekaro24.myshopify.com&locale=en-IN,70,0,0
+1706952682300,334,"mobilepad/.well-known/shopify/monorail/unstable/produce_batch-2,452",200,OK,Thread Group 1-2,,true,,1120,2176,5,5,https://casekaro.com/.well-known/shopify/monorail/unstable/produce_batch,334,0,0
+1706952682466,364,"mobile/.well-known/shopify/monorail/unstable/produce_batch-2,008",200,OK,Thread Group 1-5,,true,,1116,1528,5,5,https://casekaro.com/.well-known/shopify/monorail/unstable/produce_batch,364,0,0
+1706952682482,360,"mobile/.well-known/shopify/monorail/unstable/produce_batch-2,072",200,OK,Thread Group 1-3,,true,,1116,3414,5,5,https://casekaro.com/.well-known/shopify/monorail/unstable/produce_batch,360,0,0
+1706952682563,338,"mobilepad/.well-known/shopify/monorail/unstable/produce_batch-2,467",200,OK,Thread Group 1-1,,true,,1126,3474,5,5,https://casekaro.com/.well-known/shopify/monorail/unstable/produce_batch,338,0,0
+1706952682635,336,"mobilepad/.well-known/shopify/monorail/unstable/produce_batch-2,456",200,OK,Thread Group 1-2,,true,,1120,2385,5,5,https://casekaro.com/.well-known/shopify/monorail/unstable/produce_batch,336,0,0
+1706952682617,365,"mobile/.well-known/shopify/monorail/unstable/produce_batch-2,046",200,OK,Thread Group 1-4,,true,,1116,1784,5,5,https://casekaro.com/.well-known/shopify/monorail/unstable/produce_batch,365,0,0
+1706952682982,60,"mobile/wpm@cc636c01w77d84d94p0e8bf2ddmd75d25ae/web-pixel-shopify-custom-pixel@0575/sandbox/modern/pages/mobile-back-covers-2,063",200,OK,Thread Group 1-4,text,true,,18187,1450,5,5,https://casekaro.com/wpm@cc636c01w77d84d94p0e8bf2ddmd75d25ae/web-pixel-shopify-custom-pixel@0575/sandbox/modern/pages/mobile-back-covers,60,0,0
+1706952682831,346,"mobile/.well-known/shopify/monorail/unstable/produce_batch-2,012",200,OK,Thread Group 1-5,,true,,1116,2176,5,5,https://casekaro.com/.well-known/shopify/monorail/unstable/produce_batch,346,0,0
+1706952682843,387,"mobile/.well-known/shopify/monorail/unstable/produce_batch-2,083",200,OK,Thread Group 1-3,,true,,1124,4815,5,5,https://casekaro.com/.well-known/shopify/monorail/unstable/produce_batch,387,0,0
+1706952682902,349,"mobilepad/.well-known/shopify/monorail/unstable/produce_batch-2,479",200,OK,Thread Group 1-1,,true,,1132,2498,5,5,https://casekaro.com/.well-known/shopify/monorail/unstable/produce_batch,349,0,0
+1706952683232,61,"mobile/cdn/shop/files/Ckfinalpng_32x32.png-2,088",200,OK,Thread Group 1-3,bin,true,,2766,1280,5,5,https://casekaro.com/cdn/shop/files/Ckfinalpng_32x32.png?v=1613697399,61,0,0
+1706952682972,325,"mobilepad/.well-known/shopify/monorail/unstable/produce_batch-2,457",200,OK,Thread Group 1-2,,true,,1126,3227,5,5,https://casekaro.com/.well-known/shopify/monorail/unstable/produce_batch,325,0,0
+1706952683043,356,"mobile/.well-known/shopify/monorail/unstable/produce_batch-2,064",200,OK,Thread Group 1-4,,true,,1118,1554,5,5,https://casekaro.com/.well-known/shopify/monorail/unstable/produce_batch,356,0,0
+1706952683179,348,"mobile/.well-known/shopify/monorail/unstable/produce_batch-2,015",200,OK,Thread Group 1-5,,true,,1122,2385,5,5,https://casekaro.com/.well-known/shopify/monorail/unstable/produce_batch,348,0,0
+1706952683252,277,"mobilepad/collections/mouse-pad-2,482",200,OK,Thread Group 1-1,text,true,,34864,1354,5,5,https://casekaro.com/collections/mouse-pad,277,0,0
+1706952683297,329,"mobilepad/.well-known/shopify/monorail/unstable/produce_batch-2,467",200,OK,Thread Group 1-2,,true,,1126,3474,5,5,https://casekaro.com/.well-known/shopify/monorail/unstable/produce_batch,329,0,0
+1706952683294,364,"mobile/.well-known/shopify/monorail/v1/produce-2,096",200,OK,Thread Group 1-3,,true,,1122,9266,5,5,https://casekaro.com/.well-known/shopify/monorail/v1/produce,364,0,0
+1706952683532,221,"mobilepad/collections/%3Cscript%20src=-2,486",404,Not Found,Thread Group 1-1,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[404]]]
+
+****** comparison: [[[200]]]
+
+/",25595,1197,5,5,https://casekaro.com/collections/%3Cscript%20src=,220,0,0
+1706952683400,366,"mobile/.well-known/shopify/monorail/unstable/produce_batch-2,067",200,OK,Thread Group 1-4,,true,,1120,2328,5,5,https://casekaro.com/.well-known/shopify/monorail/unstable/produce_batch,366,0,0
+1706952683755,69,"mobilepad/checkouts/internal/preloads.js-2,492",200,OK,Thread Group 1-1,text,true,,2012,1254,5,5,https://casekaro.com/checkouts/internal/preloads.js?permanent-domain=casekaro24.myshopify.com&locale=en-IN,69,0,0
+1706952683528,351,"mobile/.well-known/shopify/monorail/unstable/produce_batch-2,017",200,OK,Thread Group 1-5,,true,,1120,3227,5,5,https://casekaro.com/.well-known/shopify/monorail/unstable/produce_batch,351,0,0
+1706952683660,234,"mobilepad/%3Cscript%20src=-2,436",404,Not Found,Thread Group 1-3,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[404]]]
+
+****** comparison: [[[200]]]
+
+/",25629,1164,5,5,https://casekaro.com/%3Cscript%20src=,233,0,0
+1706952683627,342,"mobilepad/.well-known/shopify/monorail/unstable/produce_batch-2,479",200,OK,Thread Group 1-2,,true,,1114,2498,5,5,https://casekaro.com/.well-known/shopify/monorail/unstable/produce_batch,342,0,0
+1706952683767,365,"mobile/.well-known/shopify/monorail/unstable/produce_batch-2,071",200,OK,Thread Group 1-4,,true,,1122,2480,5,5,https://casekaro.com/.well-known/shopify/monorail/unstable/produce_batch,365,0,0
+1706952683825,339,"mobilepad/.well-known/shopify/monorail/unstable/produce_batch-2,488",200,OK,Thread Group 1-1,,true,,1116,1784,5,5,https://casekaro.com/.well-known/shopify/monorail/unstable/produce_batch,339,0,0
+1706952683970,201,"mobilepad/collections/mouse-pad-2,482",200,OK,Thread Group 1-2,text,true,,35032,1354,5,5,https://casekaro.com/collections/mouse-pad,201,0,0
+1706952683880,366,"mobile/.well-known/shopify/monorail/unstable/produce_batch-2,029",200,OK,Thread Group 1-5,,true,,1114,4623,5,5,https://casekaro.com/.well-known/shopify/monorail/unstable/produce_batch,366,0,0
+1706952683896,390,"mobilepad/.well-known/shopify/monorail/unstable/produce_batch-2,438",200,OK,Thread Group 1-3,,true,,1122,1787,5,5,https://casekaro.com/.well-known/shopify/monorail/unstable/produce_batch,390,0,0
+1706952684287,72,"mobilepad/checkouts/internal/preloads.js-2,442",200,OK,Thread Group 1-3,text,true,,2014,1233,5,5,https://casekaro.com/checkouts/internal/preloads.js?permanent-domain=casekaro24.myshopify.com&locale=en-IN,72,0,0
+1706952684246,131,"mobile/pages/mobile-back-covers-2,040",200,OK,Thread Group 1-5,text,true,,26856,1357,5,5,https://casekaro.com/pages/mobile-back-covers,131,0,0
+1706952684174,239,"mobilepad/collections/%3Cscript%20src=-2,486",404,Not Found,Thread Group 1-2,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[404]]]
+
+****** comparison: [[[200]]]
+
+/",25544,1197,5,5,https://casekaro.com/collections/%3Cscript%20src=,239,0,0
+1706952684414,65,"mobilepad/checkouts/internal/preloads.js-2,492",200,OK,Thread Group 1-2,text,true,,2009,1254,5,5,https://casekaro.com/checkouts/internal/preloads.js?permanent-domain=casekaro24.myshopify.com&locale=en-IN,64,0,0
+1706952684133,362,"mobile/.well-known/shopify/monorail/unstable/produce_batch-2,072",200,OK,Thread Group 1-4,,true,,1116,3414,5,5,https://casekaro.com/.well-known/shopify/monorail/unstable/produce_batch,362,0,0
+1706952684165,335,"mobilepad/.well-known/shopify/monorail/unstable/produce_batch-2,508",200,OK,Thread Group 1-1,,true,,1122,1551,5,5,https://casekaro.com/.well-known/shopify/monorail/unstable/produce_batch,335,0,0
+1706952684378,202,"mobile/pages/%3Cscript%20src=-2,044",404,Not Found,Thread Group 1-5,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[404]]]
+
+****** comparison: [[[200]]]
+
+/",25531,1194,5,5,https://casekaro.com/pages/%3Cscript%20src=,201,0,0
+1706952684581,67,"mobile/checkouts/internal/preloads.js-2,051",200,OK,Thread Group 1-5,text,true,,2003,1257,5,5,https://casekaro.com/checkouts/internal/preloads.js?permanent-domain=casekaro24.myshopify.com&locale=en-IN,66,0,0
+1706952684360,355,"mobilepad/.well-known/shopify/monorail/unstable/produce_batch-2,451",200,OK,Thread Group 1-3,,true,,1114,1528,5,5,https://casekaro.com/.well-known/shopify/monorail/unstable/produce_batch,355,0,0
+1706952684480,341,"mobilepad/.well-known/shopify/monorail/unstable/produce_batch-2,488",200,OK,Thread Group 1-2,,true,,1114,1784,5,5,https://casekaro.com/.well-known/shopify/monorail/unstable/produce_batch,340,0,0
+1706952684501,365,"mobilepad/.well-known/shopify/monorail/unstable/produce_batch-2,511",200,OK,Thread Group 1-1,,true,,1120,2285,5,5,https://casekaro.com/.well-known/shopify/monorail/unstable/produce_batch,365,0,0
+1706952684496,407,"mobile/.well-known/shopify/monorail/unstable/produce_batch-2,083",200,OK,Thread Group 1-4,,true,,1116,4815,5,5,https://casekaro.com/.well-known/shopify/monorail/unstable/produce_batch,407,0,0
+1706952684904,73,"mobile/cdn/shop/files/Ckfinalpng_32x32.png-2,088",200,OK,Thread Group 1-4,bin,true,,2764,1280,5,5,https://casekaro.com/cdn/shop/files/Ckfinalpng_32x32.png?v=1613697399,73,0,0
+1706952684649,344,"mobile/.well-known/shopify/monorail/unstable/produce_batch-2,046",200,OK,Thread Group 1-5,,true,,1118,1784,5,5,https://casekaro.com/.well-known/shopify/monorail/unstable/produce_batch,344,0,0
+1706952684994,62,"mobile/wpm@cc636c01w77d84d94p0e8bf2ddmd75d25ae/web-pixel-shopify-custom-pixel@0575/sandbox/modern/pages/mobile-back-covers-2,063",200,OK,Thread Group 1-5,text,true,,18187,1450,5,5,https://casekaro.com/wpm@cc636c01w77d84d94p0e8bf2ddmd75d25ae/web-pixel-shopify-custom-pixel@0575/sandbox/modern/pages/mobile-back-covers,62,0,0
+1706952684716,360,"mobilepad/.well-known/shopify/monorail/unstable/produce_batch-2,452",200,OK,Thread Group 1-3,,true,,1120,2176,5,5,https://casekaro.com/.well-known/shopify/monorail/unstable/produce_batch,360,0,0
+1706952684822,322,"mobilepad/.well-known/shopify/monorail/unstable/produce_batch-2,508",200,OK,Thread Group 1-2,,true,,1112,1551,5,5,https://casekaro.com/.well-known/shopify/monorail/unstable/produce_batch,322,0,0
+1706952684867,330,"mobilepad/.well-known/shopify/monorail/unstable/produce_batch-2,518",200,OK,Thread Group 1-1,,true,,1120,3304,5,5,https://casekaro.com/.well-known/shopify/monorail/unstable/produce_batch,330,0,0
+1706952684979,384,"mobile/.well-known/shopify/monorail/v1/produce-2,096",200,OK,Thread Group 1-4,,true,,1116,9266,5,5,https://casekaro.com/.well-known/shopify/monorail/v1/produce,384,0,0
+1706952685058,357,"mobile/.well-known/shopify/monorail/unstable/produce_batch-2,064",200,OK,Thread Group 1-5,,true,,1114,1554,5,5,https://casekaro.com/.well-known/shopify/monorail/unstable/produce_batch,357,0,0
+1706952685077,353,"mobilepad/.well-known/shopify/monorail/unstable/produce_batch-2,456",200,OK,Thread Group 1-3,,true,,1126,2385,5,5,https://casekaro.com/.well-known/shopify/monorail/unstable/produce_batch,353,0,0
+1706952685145,349,"mobilepad/.well-known/shopify/monorail/unstable/produce_batch-2,511",200,OK,Thread Group 1-2,,true,,1118,2285,5,5,https://casekaro.com/.well-known/shopify/monorail/unstable/produce_batch,349,0,0
+1706952685198,332,"mobilepad/.well-known/shopify/monorail/unstable/produce_batch-2,517",200,OK,Thread Group 1-1,,true,,1124,2462,5,5,https://casekaro.com/.well-known/shopify/monorail/unstable/produce_batch,332,0,0
+1706952685365,204,"mobilepad/%3Cscript%20src=-2,436",404,Not Found,Thread Group 1-4,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[404]]]
+
+****** comparison: [[[200]]]
+
+/",25583,1164,5,5,https://casekaro.com/%3Cscript%20src=,204,0,0
+1706952685416,335,"mobile/.well-known/shopify/monorail/unstable/produce_batch-2,067",200,OK,Thread Group 1-5,,true,,1124,2328,5,5,https://casekaro.com/.well-known/shopify/monorail/unstable/produce_batch,335,0,0
+1706952685431,354,"mobilepad/.well-known/shopify/monorail/unstable/produce_batch-2,457",200,OK,Thread Group 1-3,,true,,1120,3227,5,5,https://casekaro.com/.well-known/shopify/monorail/unstable/produce_batch,354,0,0
+1706952685495,330,"mobilepad/.well-known/shopify/monorail/unstable/produce_batch-2,518",200,OK,Thread Group 1-2,,true,,1120,3304,5,5,https://casekaro.com/.well-known/shopify/monorail/unstable/produce_batch,330,0,0
+1706952685531,328,"mobilepad/.well-known/shopify/monorail/unstable/produce_batch-2,516",200,OK,Thread Group 1-1,,true,,1120,2471,5,5,https://casekaro.com/.well-known/shopify/monorail/unstable/produce_batch,328,0,0
+1706952685570,364,"mobilepad/.well-known/shopify/monorail/unstable/produce_batch-2,438",200,OK,Thread Group 1-4,,true,,1118,1787,5,5,https://casekaro.com/.well-known/shopify/monorail/unstable/produce_batch,364,0,0
+1706952685936,74,"mobilepad/checkouts/internal/preloads.js-2,442",200,OK,Thread Group 1-4,text,true,,2010,1233,5,5,https://casekaro.com/checkouts/internal/preloads.js?permanent-domain=casekaro24.myshopify.com&locale=en-IN,74,0,0
+1706952685752,348,"mobile/.well-known/shopify/monorail/unstable/produce_batch-2,071",200,OK,Thread Group 1-5,,true,,1120,2480,5,5,https://casekaro.com/.well-known/shopify/monorail/unstable/produce_batch,348,0,0
+1706952685786,350,"mobilepad/.well-known/shopify/monorail/unstable/produce_batch-2,467",200,OK,Thread Group 1-3,,true,,1118,3474,5,5,https://casekaro.com/.well-known/shopify/monorail/unstable/produce_batch,350,0,0
+1706952685826,332,"mobilepad/.well-known/shopify/monorail/unstable/produce_batch-2,517",200,OK,Thread Group 1-2,,true,,1122,2462,5,5,https://casekaro.com/.well-known/shopify/monorail/unstable/produce_batch,332,0,0
+1706952685860,331,"mobilepad/.well-known/shopify/monorail/unstable/produce_batch-2,525",200,OK,Thread Group 1-1,,true,,1114,2791,5,5,https://casekaro.com/.well-known/shopify/monorail/unstable/produce_batch,331,0,0
+1706952686023,357,"mobilepad/.well-known/shopify/monorail/unstable/produce_batch-2,451",200,OK,Thread Group 1-4,,true,,1122,1528,5,5,https://casekaro.com/.well-known/shopify/monorail/unstable/produce_batch,357,0,0
+1706952686101,351,"mobile/.well-known/shopify/monorail/unstable/produce_batch-2,072",200,OK,Thread Group 1-5,,true,,1126,3414,5,5,https://casekaro.com/.well-known/shopify/monorail/unstable/produce_batch,351,0,0
+1706952686158,338,"mobilepad/.well-known/shopify/monorail/unstable/produce_batch-2,516",200,OK,Thread Group 1-2,,true,,1124,2471,5,5,https://casekaro.com/.well-known/shopify/monorail/unstable/produce_batch,338,0,0
+1706952686137,361,"mobilepad/.well-known/shopify/monorail/unstable/produce_batch-2,479",200,OK,Thread Group 1-3,,true,,1114,2498,5,5,https://casekaro.com/.well-known/shopify/monorail/unstable/produce_batch,361,0,0
+1706952686192,340,"mobilepad/.well-known/shopify/monorail/unstable/produce_batch-2,529",200,OK,Thread Group 1-1,,true,,1120,4964,5,5,https://casekaro.com/.well-known/shopify/monorail/unstable/produce_batch,340,0,0
+1706952686532,53,"mobilepad/cdn/shop/products/MOUSEPAD-0021-A_360x.jpg-2,545",200,OK,Thread Group 1-1,bin,true,,33084,1284,5,5,https://casekaro.com/cdn/shop/products/MOUSEPAD-0021-A_360x.jpg?v=1596187597,52,0,0
+1706952686499,153,"mobilepad/collections/mouse-pad-2,482",200,OK,Thread Group 1-3,text,true,,34959,1354,5,5,https://casekaro.com/collections/mouse-pad,153,0,0
+1706952686381,357,"mobilepad/.well-known/shopify/monorail/unstable/produce_batch-2,452",200,OK,Thread Group 1-4,,true,,1114,2176,5,5,https://casekaro.com/.well-known/shopify/monorail/unstable/produce_batch,357,0,0
+1706952686587,199,"mobilepad/apps/sa/verify_cart.js-2,540",200,OK,Thread Group 1-1,text,true,,1497,1199,5,5,https://casekaro.com/apps/sa/verify_cart.js?shop=casekaro24.myshopify.com,198,0,0
+1706952686497,323,"mobilepad/.well-known/shopify/monorail/unstable/produce_batch-2,525",200,OK,Thread Group 1-2,,true,,1116,2791,5,5,https://casekaro.com/.well-known/shopify/monorail/unstable/produce_batch,323,0,0
+1706952686452,376,"mobile/.well-known/shopify/monorail/unstable/produce_batch-2,083",200,OK,Thread Group 1-5,,true,,1122,4815,5,5,https://casekaro.com/.well-known/shopify/monorail/unstable/produce_batch,376,0,0
+1706952686787,58,"mobilepad/cdn/shop/products/MOUSEPAD-0013-A_360x.jpg-2,543",200,OK,Thread Group 1-1,bin,true,,27633,1284,5,5,https://casekaro.com/cdn/shop/products/MOUSEPAD-0013-A_360x.jpg?v=1596187558,58,0,0
+1706952686828,54,"mobile/cdn/shop/files/Ckfinalpng_32x32.png-2,088",200,OK,Thread Group 1-5,bin,true,,2768,1280,5,5,https://casekaro.com/cdn/shop/files/Ckfinalpng_32x32.png?v=1613697399,54,0,0
+1706952686655,230,"mobilepad/collections/%3Cscript%20src=-2,486",404,Not Found,Thread Group 1-3,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[404]]]
+
+****** comparison: [[[200]]]
+
+/",25606,1197,5,5,https://casekaro.com/collections/%3Cscript%20src=,230,0,0
+1706952686847,60,"mobilepad/cdn/shop/products/MOUSEPAD-0006_284b2ae1-aa24-4a0b-83f4-e2ec42489889_360x.jpg-2,542",200,OK,Thread Group 1-1,bin,true,,26886,1319,5,5,https://casekaro.com/cdn/shop/products/MOUSEPAD-0006_284b2ae1-aa24-4a0b-83f4-e2ec42489889_360x.jpg?v=1593228216,59,0,0
+1706952686886,79,"mobilepad/checkouts/internal/preloads.js-2,492",200,OK,Thread Group 1-3,text,true,,2003,1254,5,5,https://casekaro.com/checkouts/internal/preloads.js?permanent-domain=casekaro24.myshopify.com&locale=en-IN,79,0,0
+1706952686907,61,"mobilepad/cdn/shop/products/MOUSEPAD-0022-A_360x.jpg-2,544",200,OK,Thread Group 1-1,bin,true,,26504,1284,5,5,https://casekaro.com/cdn/shop/products/MOUSEPAD-0022-A_360x.jpg?v=1596187602,61,0,0
+1706952686739,368,"mobilepad/.well-known/shopify/monorail/unstable/produce_batch-2,456",200,OK,Thread Group 1-4,,true,,1116,2385,5,5,https://casekaro.com/.well-known/shopify/monorail/unstable/produce_batch,368,0,0
+1706952686820,357,"mobilepad/.well-known/shopify/monorail/unstable/produce_batch-2,529",200,OK,Thread Group 1-2,,true,,1122,4964,5,5,https://casekaro.com/.well-known/shopify/monorail/unstable/produce_batch,357,0,0
+1706952687178,53,"mobilepad/cdn/shop/products/MOUSEPAD-0021-A_360x.jpg-2,545",200,OK,Thread Group 1-2,bin,true,,33068,1284,5,5,https://casekaro.com/cdn/shop/products/MOUSEPAD-0021-A_360x.jpg?v=1596187597,52,0,0
+1706952686883,364,"mobile/.well-known/shopify/monorail/v1/produce-2,096",200,OK,Thread Group 1-5,,true,,1122,9266,5,5,https://casekaro.com/.well-known/shopify/monorail/v1/produce,364,0,0
+1706952686966,355,"mobilepad/.well-known/shopify/monorail/unstable/produce_batch-2,488",200,OK,Thread Group 1-3,,true,,1122,1784,5,5,https://casekaro.com/.well-known/shopify/monorail/unstable/produce_batch,355,0,0
+1706952686969,377,"mobilepad/.well-known/shopify/monorail/v1/produce-2,548",200,OK,Thread Group 1-1,,true,,1116,7045,5,5,https://casekaro.com/.well-known/shopify/monorail/v1/produce,377,0,0
+1706952687232,170,"mobilepad/apps/sa/verify_cart.js-2,540",200,OK,Thread Group 1-2,text,true,,1493,1199,5,5,https://casekaro.com/apps/sa/verify_cart.js?shop=casekaro24.myshopify.com,170,0,0
+1706952687248,210,"mobilepad/%3Cscript%20src=-2,436",404,Not Found,Thread Group 1-5,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[404]]]
+
+****** comparison: [[[200]]]
+
+/",25483,1164,5,5,https://casekaro.com/%3Cscript%20src=,210,0,0
+1706952687108,367,"mobilepad/.well-known/shopify/monorail/unstable/produce_batch-2,457",200,OK,Thread Group 1-4,,true,,1120,3227,5,5,https://casekaro.com/.well-known/shopify/monorail/unstable/produce_batch,367,0,0
+1706952687403,95,"mobilepad/cdn/shop/products/MOUSEPAD-0013-A_360x.jpg-2,543",200,OK,Thread Group 1-2,bin,true,,27632,1284,5,5,https://casekaro.com/cdn/shop/products/MOUSEPAD-0013-A_360x.jpg?v=1596187558,95,0,0
+1706952687499,51,"mobilepad/cdn/shop/products/MOUSEPAD-0006_284b2ae1-aa24-4a0b-83f4-e2ec42489889_360x.jpg-2,542",200,OK,Thread Group 1-2,bin,true,,26888,1319,5,5,https://casekaro.com/cdn/shop/products/MOUSEPAD-0006_284b2ae1-aa24-4a0b-83f4-e2ec42489889_360x.jpg?v=1593228216,51,0,0
+1706952687348,225,"track/%3Cscript%20src=-2,697",404,Not Found,Thread Group 1-1,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[404]]]
+
+****** comparison: [[[200]]]
+
+/",25553,1216,5,5,https://casekaro.com/%3Cscript%20src=,225,0,0
+1706952687552,58,"mobilepad/cdn/shop/products/MOUSEPAD-0022-A_360x.jpg-2,544",200,OK,Thread Group 1-2,bin,true,,26512,1284,5,5,https://casekaro.com/cdn/shop/products/MOUSEPAD-0022-A_360x.jpg?v=1596187602,57,0,0
+1706952687575,73,"track/checkouts/internal/preloads.js-2,700",200,OK,Thread Group 1-1,text,true,,2005,1285,5,5,https://casekaro.com/checkouts/internal/preloads.js?permanent-domain=casekaro24.myshopify.com&locale=en-IN,72,0,0
+1706952687322,357,"mobilepad/.well-known/shopify/monorail/unstable/produce_batch-2,508",200,OK,Thread Group 1-3,,true,,1118,1551,5,5,https://casekaro.com/.well-known/shopify/monorail/unstable/produce_batch,357,0,0
+1706952687460,342,"mobilepad/.well-known/shopify/monorail/unstable/produce_batch-2,438",200,OK,Thread Group 1-5,,true,,1120,1787,5,5,https://casekaro.com/.well-known/shopify/monorail/unstable/produce_batch,342,0,0
+1706952687476,366,"mobilepad/.well-known/shopify/monorail/unstable/produce_batch-2,467",200,OK,Thread Group 1-4,,true,,1122,3474,5,5,https://casekaro.com/.well-known/shopify/monorail/unstable/produce_batch,366,0,0
+1706952687803,55,"mobilepad/checkouts/internal/preloads.js-2,442",200,OK,Thread Group 1-5,text,true,,2016,1233,5,5,https://casekaro.com/checkouts/internal/preloads.js?permanent-domain=casekaro24.myshopify.com&locale=en-IN,55,0,0
+1706952687611,335,"mobilepad/.well-known/shopify/monorail/v1/produce-2,548",200,OK,Thread Group 1-2,,true,,1120,7045,5,5,https://casekaro.com/.well-known/shopify/monorail/v1/produce,335,0,0
+1706952687649,325,"track/.well-known/shopify/monorail/unstable/produce_batch-2,724",200,OK,Thread Group 1-1,,true,,1122,2230,5,5,https://casekaro.com/.well-known/shopify/monorail/unstable/produce_batch,325,0,0
+1706952687680,350,"mobilepad/.well-known/shopify/monorail/unstable/produce_batch-2,511",200,OK,Thread Group 1-3,,true,,1122,2285,5,5,https://casekaro.com/.well-known/shopify/monorail/unstable/produce_batch,350,0,0
+1706952687948,129,"track/%3Cscript%20src=-2,697",404,Not Found,Thread Group 1-2,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[404]]]
+
+****** comparison: [[[200]]]
+
+/",25458,1216,5,5,https://casekaro.com/%3Cscript%20src=,129,0,0
+1706952688080,67,"track/checkouts/internal/preloads.js-2,700",200,OK,Thread Group 1-2,text,true,,2010,1285,5,5,https://casekaro.com/checkouts/internal/preloads.js?permanent-domain=casekaro24.myshopify.com&locale=en-IN,67,0,0
+1706952687859,345,"mobilepad/.well-known/shopify/monorail/unstable/produce_batch-2,451",200,OK,Thread Group 1-5,,true,,1122,1528,5,5,https://casekaro.com/.well-known/shopify/monorail/unstable/produce_batch,345,0,0
+1706952687843,379,"mobilepad/.well-known/shopify/monorail/unstable/produce_batch-2,479",200,OK,Thread Group 1-4,,true,,1122,2498,5,5,https://casekaro.com/.well-known/shopify/monorail/unstable/produce_batch,379,0,0
+1706952687974,339,"track/.well-known/shopify/monorail/unstable/produce_batch-2,723",200,OK,Thread Group 1-1,,true,,1126,1582,5,5,https://casekaro.com/.well-known/shopify/monorail/unstable/produce_batch,339,0,0
+1706952688031,357,"mobilepad/.well-known/shopify/monorail/unstable/produce_batch-2,518",200,OK,Thread Group 1-3,,true,,1114,3304,5,5,https://casekaro.com/.well-known/shopify/monorail/unstable/produce_batch,357,0,0
+1706952688222,201,"mobilepad/collections/mouse-pad-2,482",200,OK,Thread Group 1-4,text,true,,35005,1354,5,5,https://casekaro.com/collections/mouse-pad,201,0,0
+1706952688148,309,"track/.well-known/shopify/monorail/unstable/produce_batch-2,724",200,OK,Thread Group 1-2,,true,,1120,2230,5,5,https://casekaro.com/.well-known/shopify/monorail/unstable/produce_batch,309,0,0
+1706952688205,341,"mobilepad/.well-known/shopify/monorail/unstable/produce_batch-2,452",200,OK,Thread Group 1-5,,true,,1116,2176,5,5,https://casekaro.com/.well-known/shopify/monorail/unstable/produce_batch,341,0,0
+1706952688314,342,"track/.well-known/shopify/monorail/unstable/produce_batch-2,725",200,OK,Thread Group 1-1,,true,,1122,2439,5,5,https://casekaro.com/.well-known/shopify/monorail/unstable/produce_batch,342,0,0
+1706952688426,235,"mobilepad/collections/%3Cscript%20src=-2,486",404,Not Found,Thread Group 1-4,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[404]]]
+
+****** comparison: [[[200]]]
+
+/",25587,1197,5,5,https://casekaro.com/collections/%3Cscript%20src=,235,0,0
+1706952688389,341,"mobilepad/.well-known/shopify/monorail/unstable/produce_batch-2,517",200,OK,Thread Group 1-3,,true,,1128,2462,5,5,https://casekaro.com/.well-known/shopify/monorail/unstable/produce_batch,341,0,0
+1706952688662,69,"mobilepad/checkouts/internal/preloads.js-2,492",200,OK,Thread Group 1-4,text,true,,2007,1254,5,5,https://casekaro.com/checkouts/internal/preloads.js?permanent-domain=casekaro24.myshopify.com&locale=en-IN,69,0,0
+1706952688458,341,"track/.well-known/shopify/monorail/unstable/produce_batch-2,723",200,OK,Thread Group 1-2,,true,,1116,1582,5,5,https://casekaro.com/.well-known/shopify/monorail/unstable/produce_batch,341,0,0
+1706952688547,364,"mobilepad/.well-known/shopify/monorail/unstable/produce_batch-2,456",200,OK,Thread Group 1-5,,true,,1120,2385,5,5,https://casekaro.com/.well-known/shopify/monorail/unstable/produce_batch,364,0,0
+1706952688657,338,"track/.well-known/shopify/monorail/unstable/produce_batch-2,726",200,OK,Thread Group 1-1,,true,,1116,3279,5,5,https://casekaro.com/.well-known/shopify/monorail/unstable/produce_batch,338,0,0
+1706952688732,348,"mobilepad/.well-known/shopify/monorail/unstable/produce_batch-2,488",200,OK,Thread Group 1-4,,true,,1120,1784,5,5,https://casekaro.com/.well-known/shopify/monorail/unstable/produce_batch,348,0,0
+1706952688731,354,"mobilepad/.well-known/shopify/monorail/unstable/produce_batch-2,516",200,OK,Thread Group 1-3,,true,,1120,2471,5,5,https://casekaro.com/.well-known/shopify/monorail/unstable/produce_batch,354,0,0
+1706952688800,330,"track/.well-known/shopify/monorail/unstable/produce_batch-2,725",200,OK,Thread Group 1-2,,true,,1122,2439,5,5,https://casekaro.com/.well-known/shopify/monorail/unstable/produce_batch,330,0,0
+1706952688912,345,"mobilepad/.well-known/shopify/monorail/unstable/produce_batch-2,457",200,OK,Thread Group 1-5,,true,,1116,3227,5,5,https://casekaro.com/.well-known/shopify/monorail/unstable/produce_batch,345,0,0
+1706952688996,348,"track/.well-known/shopify/monorail/unstable/produce_batch-2,738",200,OK,Thread Group 1-1,,true,,1124,2328,5,5,https://casekaro.com/.well-known/shopify/monorail/unstable/produce_batch,348,0,0
+1706952689081,355,"mobilepad/.well-known/shopify/monorail/unstable/produce_batch-2,508",200,OK,Thread Group 1-4,,true,,1118,1551,5,5,https://casekaro.com/.well-known/shopify/monorail/unstable/produce_batch,355,0,0
+1706952689086,358,"mobilepad/.well-known/shopify/monorail/unstable/produce_batch-2,525",200,OK,Thread Group 1-3,,true,,1122,2791,5,5,https://casekaro.com/.well-known/shopify/monorail/unstable/produce_batch,358,0,0
+1706952689131,339,"track/.well-known/shopify/monorail/unstable/produce_batch-2,726",200,OK,Thread Group 1-2,,true,,1114,3279,5,5,https://casekaro.com/.well-known/shopify/monorail/unstable/produce_batch,339,0,0
+1706952689258,349,"mobilepad/.well-known/shopify/monorail/unstable/produce_batch-2,467",200,OK,Thread Group 1-5,,true,,1118,3474,5,5,https://casekaro.com/.well-known/shopify/monorail/unstable/produce_batch,349,0,0
+1706952689345,339,"track/.well-known/shopify/monorail/unstable/produce_batch-2,752",200,OK,Thread Group 1-1,,true,,1116,1823,5,5,https://casekaro.com/.well-known/shopify/monorail/unstable/produce_batch,339,0,0
+1706952689437,356,"mobilepad/.well-known/shopify/monorail/unstable/produce_batch-2,511",200,OK,Thread Group 1-4,,true,,1116,2285,5,5,https://casekaro.com/.well-known/shopify/monorail/unstable/produce_batch,356,0,0
+1706952689444,360,"mobilepad/.well-known/shopify/monorail/unstable/produce_batch-2,529",200,OK,Thread Group 1-3,,true,,1118,4964,5,5,https://casekaro.com/.well-known/shopify/monorail/unstable/produce_batch,360,0,0
+1706952689471,350,"track/.well-known/shopify/monorail/unstable/produce_batch-2,738",200,OK,Thread Group 1-2,,true,,1116,2328,5,5,https://casekaro.com/.well-known/shopify/monorail/unstable/produce_batch,350,0,0
+1706952689805,83,"mobilepad/cdn/shop/products/MOUSEPAD-0021-A_360x.jpg-2,545",200,OK,Thread Group 1-3,bin,true,,33076,1284,5,5,https://casekaro.com/cdn/shop/products/MOUSEPAD-0021-A_360x.jpg?v=1596187597,83,0,0
+1706952689608,369,"mobilepad/.well-known/shopify/monorail/unstable/produce_batch-2,479",200,OK,Thread Group 1-5,,true,,1122,2498,5,5,https://casekaro.com/.well-known/shopify/monorail/unstable/produce_batch,369,0,0
+1706952689685,330,"track/.well-known/shopify/monorail/unstable/produce_batch-2,768",200,OK,Thread Group 1-1,,true,,1118,3695,5,5,https://casekaro.com/.well-known/shopify/monorail/unstable/produce_batch,330,0,0
+1706952689889,173,"mobilepad/apps/sa/verify_cart.js-2,540",200,OK,Thread Group 1-3,text,true,,1497,1199,5,5,https://casekaro.com/apps/sa/verify_cart.js?shop=casekaro24.myshopify.com,173,0,0
+1706952690064,72,"mobilepad/cdn/shop/products/MOUSEPAD-0013-A_360x.jpg-2,543",200,OK,Thread Group 1-3,bin,true,,27639,1284,5,5,https://casekaro.com/cdn/shop/products/MOUSEPAD-0013-A_360x.jpg?v=1596187558,71,0,0
+1706952689822,320,"track/.well-known/shopify/monorail/unstable/produce_batch-2,752",200,OK,Thread Group 1-2,,true,,1116,1823,5,5,https://casekaro.com/.well-known/shopify/monorail/unstable/produce_batch,320,0,0
+1706952689794,364,"mobilepad/.well-known/shopify/monorail/unstable/produce_batch-2,518",200,OK,Thread Group 1-4,,true,,1116,3304,5,5,https://casekaro.com/.well-known/shopify/monorail/unstable/produce_batch,364,0,0
+1706952689978,204,"mobilepad/collections/mouse-pad-2,482",200,OK,Thread Group 1-5,text,true,,34974,1354,5,5,https://casekaro.com/collections/mouse-pad,204,0,0
+1706952690021,178,"track/apps/sa/verify_cart.js-2,771",200,OK,Thread Group 1-1,text,true,,1489,1199,5,5,https://casekaro.com/apps/sa/verify_cart.js?shop=casekaro24.myshopify.com,178,0,0
+1706952690137,66,"mobilepad/cdn/shop/products/MOUSEPAD-0006_284b2ae1-aa24-4a0b-83f4-e2ec42489889_360x.jpg-2,542",200,OK,Thread Group 1-3,bin,true,,26895,1319,5,5,https://casekaro.com/cdn/shop/products/MOUSEPAD-0006_284b2ae1-aa24-4a0b-83f4-e2ec42489889_360x.jpg?v=1593228216,66,0,0
+1706952690205,73,"mobilepad/cdn/shop/products/MOUSEPAD-0022-A_360x.jpg-2,544",200,OK,Thread Group 1-3,bin,true,,26504,1284,5,5,https://casekaro.com/cdn/shop/products/MOUSEPAD-0022-A_360x.jpg?v=1596187602,73,0,0
+1706952690185,210,"mobilepad/collections/%3Cscript%20src=-2,486",404,Not Found,Thread Group 1-5,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[404]]]
+
+****** comparison: [[[200]]]
+
+/",25746,1197,5,5,https://casekaro.com/collections/%3Cscript%20src=,209,0,0
+1706952690397,65,"mobilepad/checkouts/internal/preloads.js-2,492",200,OK,Thread Group 1-5,text,true,,2014,1254,5,5,https://casekaro.com/checkouts/internal/preloads.js?permanent-domain=casekaro24.myshopify.com&locale=en-IN,65,0,0
+1706952690143,330,"track/.well-known/shopify/monorail/unstable/produce_batch-2,768",200,OK,Thread Group 1-2,,true,,1122,3695,5,5,https://casekaro.com/.well-known/shopify/monorail/unstable/produce_batch,330,0,0
+1706952690159,358,"mobilepad/.well-known/shopify/monorail/unstable/produce_batch-2,517",200,OK,Thread Group 1-4,,true,,1118,2462,5,5,https://casekaro.com/.well-known/shopify/monorail/unstable/produce_batch,358,0,0
+1706952690200,370,"track/.well-known/shopify/monorail/v1/produce-2,773",200,OK,Thread Group 1-1,,true,,1114,9118,5,5,https://casekaro.com/.well-known/shopify/monorail/v1/produce,370,0,0
+1706952690474,158,"track/apps/sa/verify_cart.js-2,771",200,OK,Thread Group 1-2,text,true,,1489,1199,5,5,https://casekaro.com/apps/sa/verify_cart.js?shop=casekaro24.myshopify.com,158,0,0
+1706952690280,400,"mobilepad/.well-known/shopify/monorail/v1/produce-2,548",200,OK,Thread Group 1-3,,true,,1122,7045,5,5,https://casekaro.com/.well-known/shopify/monorail/v1/produce,400,0,0
+1706952690464,340,"mobilepad/.well-known/shopify/monorail/unstable/produce_batch-2,488",200,OK,Thread Group 1-5,,true,,1116,1784,5,5,https://casekaro.com/.well-known/shopify/monorail/unstable/produce_batch,340,0,0
+1706952690570,253,"track/pages/track-order-1-2,776",200,OK,Thread Group 1-1,text,true,,25633,1352,5,5,https://casekaro.com/pages/track-order-1,253,0,0
+1706952690683,149,"track/%3Cscript%20src=-2,697",404,Not Found,Thread Group 1-3,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[404]]]
+
+****** comparison: [[[200]]]
+
+/",25531,1216,5,5,https://casekaro.com/%3Cscript%20src=,149,0,0
+1706952690517,354,"mobilepad/.well-known/shopify/monorail/unstable/produce_batch-2,516",200,OK,Thread Group 1-4,,true,,1116,2471,5,5,https://casekaro.com/.well-known/shopify/monorail/unstable/produce_batch,354,0,0
+1706952690833,96,"track/checkouts/internal/preloads.js-2,700",200,OK,Thread Group 1-3,text,true,,2011,1285,5,5,https://casekaro.com/checkouts/internal/preloads.js?permanent-domain=casekaro24.myshopify.com&locale=en-IN,96,0,0
+1706952690633,361,"track/.well-known/shopify/monorail/v1/produce-2,773",200,OK,Thread Group 1-2,,true,,1130,9118,5,5,https://casekaro.com/.well-known/shopify/monorail/v1/produce,361,0,0
+1706952690826,210,"track/pages/%3Cscript%20src=-2,782",404,Not Found,Thread Group 1-1,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[404]]]
+
+****** comparison: [[[200]]]
+
+/",25550,1189,5,5,https://casekaro.com/pages/%3Cscript%20src=,210,0,0
+1706952691038,67,"track/checkouts/internal/preloads.js-2,786",200,OK,Thread Group 1-1,text,true,,2005,1252,5,5,https://casekaro.com/checkouts/internal/preloads.js?permanent-domain=casekaro24.myshopify.com&locale=en-IN,67,0,0
+1706952690806,342,"mobilepad/.well-known/shopify/monorail/unstable/produce_batch-2,508",200,OK,Thread Group 1-5,,true,,1118,1551,5,5,https://casekaro.com/.well-known/shopify/monorail/unstable/produce_batch,342,0,0
+1706952690996,192,"track/pages/track-order-1-2,776",200,OK,Thread Group 1-2,text,true,,25672,1352,5,5,https://casekaro.com/pages/track-order-1,192,0,0
+1706952690873,359,"mobilepad/.well-known/shopify/monorail/unstable/produce_batch-2,525",200,OK,Thread Group 1-4,,true,,1118,2791,5,5,https://casekaro.com/.well-known/shopify/monorail/unstable/produce_batch,359,0,0
+1706952690930,371,"track/.well-known/shopify/monorail/unstable/produce_batch-2,724",200,OK,Thread Group 1-3,,true,,1120,2230,5,5,https://casekaro.com/.well-known/shopify/monorail/unstable/produce_batch,371,0,0
+1706952691191,199,"track/pages/%3Cscript%20src=-2,782",404,Not Found,Thread Group 1-2,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[404]]]
+
+****** comparison: [[[200]]]
+
+/",25563,1189,5,5,https://casekaro.com/pages/%3Cscript%20src=,199,0,0
+1706952691106,337,"track/.well-known/shopify/monorail/unstable/produce_batch-2,778",200,OK,Thread Group 1-1,,true,,1118,1785,5,5,https://casekaro.com/.well-known/shopify/monorail/unstable/produce_batch,337,0,0
+1706952691392,68,"track/checkouts/internal/preloads.js-2,786",200,OK,Thread Group 1-2,text,true,,2003,1252,5,5,https://casekaro.com/checkouts/internal/preloads.js?permanent-domain=casekaro24.myshopify.com&locale=en-IN,67,0,0
+1706952691148,339,"mobilepad/.well-known/shopify/monorail/unstable/produce_batch-2,511",200,OK,Thread Group 1-5,,true,,1116,2285,5,5,https://casekaro.com/.well-known/shopify/monorail/unstable/produce_batch,339,0,0
+1706952691233,365,"mobilepad/.well-known/shopify/monorail/unstable/produce_batch-2,529",200,OK,Thread Group 1-4,,true,,1122,4964,5,5,https://casekaro.com/.well-known/shopify/monorail/unstable/produce_batch,365,0,0
+1706952691599,59,"mobilepad/cdn/shop/products/MOUSEPAD-0021-A_360x.jpg-2,545",200,OK,Thread Group 1-4,bin,true,,33080,1284,5,5,https://casekaro.com/cdn/shop/products/MOUSEPAD-0021-A_360x.jpg?v=1596187597,58,0,0
+1706952691302,359,"track/.well-known/shopify/monorail/unstable/produce_batch-2,723",200,OK,Thread Group 1-3,,true,,1120,1582,5,5,https://casekaro.com/.well-known/shopify/monorail/unstable/produce_batch,359,0,0
+1706952691443,333,"track/.well-known/shopify/monorail/unstable/produce_batch-2,794",200,OK,Thread Group 1-1,,true,,1112,1549,5,5,https://casekaro.com/.well-known/shopify/monorail/unstable/produce_batch,333,0,0
+1706952691460,339,"track/.well-known/shopify/monorail/unstable/produce_batch-2,778",200,OK,Thread Group 1-2,,true,,1122,1785,5,5,https://casekaro.com/.well-known/shopify/monorail/unstable/produce_batch,339,0,0
+1706952691488,365,"mobilepad/.well-known/shopify/monorail/unstable/produce_batch-2,518",200,OK,Thread Group 1-5,,true,,1118,3304,5,5,https://casekaro.com/.well-known/shopify/monorail/unstable/produce_batch,365,0,0
+1706952691659,197,"mobilepad/apps/sa/verify_cart.js-2,540",200,OK,Thread Group 1-4,text,true,,1489,1199,5,5,https://casekaro.com/apps/sa/verify_cart.js?shop=casekaro24.myshopify.com,197,0,0
+1706952691858,57,"mobilepad/cdn/shop/products/MOUSEPAD-0013-A_360x.jpg-2,543",200,OK,Thread Group 1-4,bin,true,,27635,1284,5,5,https://casekaro.com/cdn/shop/products/MOUSEPAD-0013-A_360x.jpg?v=1596187558,57,0,0
+1706952691916,58,"mobilepad/cdn/shop/products/MOUSEPAD-0006_284b2ae1-aa24-4a0b-83f4-e2ec42489889_360x.jpg-2,542",200,OK,Thread Group 1-4,bin,true,,26897,1319,5,5,https://casekaro.com/cdn/shop/products/MOUSEPAD-0006_284b2ae1-aa24-4a0b-83f4-e2ec42489889_360x.jpg?v=1593228216,57,0,0
+1706952691662,360,"track/.well-known/shopify/monorail/unstable/produce_batch-2,725",200,OK,Thread Group 1-3,,true,,1126,2439,5,5,https://casekaro.com/.well-known/shopify/monorail/unstable/produce_batch,360,0,0
+1706952691975,66,"mobilepad/cdn/shop/products/MOUSEPAD-0022-A_360x.jpg-2,544",200,OK,Thread Group 1-4,bin,true,,26508,1284,5,5,https://casekaro.com/cdn/shop/products/MOUSEPAD-0022-A_360x.jpg?v=1596187602,66,0,0
+1706952691777,325,"track/.well-known/shopify/monorail/unstable/produce_batch-2,796",200,OK,Thread Group 1-1,,true,,1118,2268,5,5,https://casekaro.com/.well-known/shopify/monorail/unstable/produce_batch,325,0,0
+1706952691800,341,"track/.well-known/shopify/monorail/unstable/produce_batch-2,794",200,OK,Thread Group 1-2,,true,,1122,1549,5,5,https://casekaro.com/.well-known/shopify/monorail/unstable/produce_batch,341,0,0
+1706952691853,353,"mobilepad/.well-known/shopify/monorail/unstable/produce_batch-2,517",200,OK,Thread Group 1-5,,true,,1118,2462,5,5,https://casekaro.com/.well-known/shopify/monorail/unstable/produce_batch,353,0,0
+1706952692023,363,"track/.well-known/shopify/monorail/unstable/produce_batch-2,726",200,OK,Thread Group 1-3,,true,,1116,3279,5,5,https://casekaro.com/.well-known/shopify/monorail/unstable/produce_batch,363,0,0
+1706952692102,337,"track/.well-known/shopify/monorail/unstable/produce_batch-2,800",200,OK,Thread Group 1-1,,true,,1116,2465,5,5,https://casekaro.com/.well-known/shopify/monorail/unstable/produce_batch,337,0,0
+1706952692043,405,"mobilepad/.well-known/shopify/monorail/v1/produce-2,548",200,OK,Thread Group 1-4,,true,,1120,7045,5,5,https://casekaro.com/.well-known/shopify/monorail/v1/produce,405,0,0
+1706952692142,341,"track/.well-known/shopify/monorail/unstable/produce_batch-2,796",200,OK,Thread Group 1-2,,true,,1120,2268,5,5,https://casekaro.com/.well-known/shopify/monorail/unstable/produce_batch,341,0,0
+1706952692207,358,"mobilepad/.well-known/shopify/monorail/unstable/produce_batch-2,516",200,OK,Thread Group 1-5,,true,,1116,2471,5,5,https://casekaro.com/.well-known/shopify/monorail/unstable/produce_batch,358,0,0
+1706952692449,195,"track/%3Cscript%20src=-2,697",404,Not Found,Thread Group 1-4,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[404]]]
+
+****** comparison: [[[200]]]
+
+/",25636,1216,5,5,https://casekaro.com/%3Cscript%20src=,194,0,0
+1706952692646,77,"track/checkouts/internal/preloads.js-2,700",200,OK,Thread Group 1-4,text,true,,2007,1285,5,5,https://casekaro.com/checkouts/internal/preloads.js?permanent-domain=casekaro24.myshopify.com&locale=en-IN,77,0,0
+1706952692387,362,"track/.well-known/shopify/monorail/unstable/produce_batch-2,738",200,OK,Thread Group 1-3,,true,,1118,2328,5,5,https://casekaro.com/.well-known/shopify/monorail/unstable/produce_batch,362,0,0
+1706952692440,325,"track/.well-known/shopify/monorail/unstable/produce_batch-2,801",200,OK,Thread Group 1-1,,true,,1114,3271,5,5,https://casekaro.com/.well-known/shopify/monorail/unstable/produce_batch,325,0,0
+1706952692484,331,"track/.well-known/shopify/monorail/unstable/produce_batch-2,800",200,OK,Thread Group 1-2,,true,,1120,2465,5,5,https://casekaro.com/.well-known/shopify/monorail/unstable/produce_batch,330,0,0
+1706952692566,337,"mobilepad/.well-known/shopify/monorail/unstable/produce_batch-2,525",200,OK,Thread Group 1-5,,true,,1114,2791,5,5,https://casekaro.com/.well-known/shopify/monorail/unstable/produce_batch,337,0,0
+1706952692724,353,"track/.well-known/shopify/monorail/unstable/produce_batch-2,724",200,OK,Thread Group 1-4,,true,,1120,2230,5,5,https://casekaro.com/.well-known/shopify/monorail/unstable/produce_batch,353,0,0
+1706952692750,381,"track/.well-known/shopify/monorail/unstable/produce_batch-2,752",200,OK,Thread Group 1-3,,true,,1120,1823,5,5,https://casekaro.com/.well-known/shopify/monorail/unstable/produce_batch,381,0,0
+1706952692816,322,"track/.well-known/shopify/monorail/unstable/produce_batch-2,801",200,OK,Thread Group 1-2,,true,,1122,3271,5,5,https://casekaro.com/.well-known/shopify/monorail/unstable/produce_batch,322,0,0
+1706952692766,373,"track/.well-known/shopify/monorail/unstable/produce_batch-2,819",200,OK,Thread Group 1-1,,true,,1128,4775,5,5,https://casekaro.com/.well-known/shopify/monorail/unstable/produce_batch,373,0,0
+1706952692904,360,"mobilepad/.well-known/shopify/monorail/unstable/produce_batch-2,529",200,OK,Thread Group 1-5,,true,,1122,4964,5,5,https://casekaro.com/.well-known/shopify/monorail/unstable/produce_batch,360,0,0
+1706952693140,158,"track/apps/sa/verify_cart.js-2,823",200,OK,Thread Group 1-1,text,true,,1497,1199,5,5,https://casekaro.com/apps/sa/verify_cart.js?shop=casekaro24.myshopify.com,158,0,0
+1706952693265,47,"mobilepad/cdn/shop/products/MOUSEPAD-0021-A_360x.jpg-2,545",200,OK,Thread Group 1-5,bin,true,,33076,1284,5,5,https://casekaro.com/cdn/shop/products/MOUSEPAD-0021-A_360x.jpg?v=1596187597,46,0,0
+1706952693078,382,"track/.well-known/shopify/monorail/unstable/produce_batch-2,723",200,OK,Thread Group 1-4,,true,,1122,1582,5,5,https://casekaro.com/.well-known/shopify/monorail/unstable/produce_batch,382,0,0
+1706952693314,162,"mobilepad/apps/sa/verify_cart.js-2,540",200,OK,Thread Group 1-5,text,true,,1487,1199,5,5,https://casekaro.com/apps/sa/verify_cart.js?shop=casekaro24.myshopify.com,162,0,0
+1706952693132,353,"track/.well-known/shopify/monorail/unstable/produce_batch-2,768",200,OK,Thread Group 1-3,,true,,1118,3695,5,5,https://casekaro.com/.well-known/shopify/monorail/unstable/produce_batch,353,0,0
+1706952693139,348,"track/.well-known/shopify/monorail/unstable/produce_batch-2,819",200,OK,Thread Group 1-2,,true,,1122,4775,5,5,https://casekaro.com/.well-known/shopify/monorail/unstable/produce_batch,348,0,0
+1706952693477,54,"mobilepad/cdn/shop/products/MOUSEPAD-0013-A_360x.jpg-2,543",200,OK,Thread Group 1-5,bin,true,,27641,1284,5,5,https://casekaro.com/cdn/shop/products/MOUSEPAD-0013-A_360x.jpg?v=1596187558,53,0,0
+1706952693533,53,"mobilepad/cdn/shop/products/MOUSEPAD-0006_284b2ae1-aa24-4a0b-83f4-e2ec42489889_360x.jpg-2,542",200,OK,Thread Group 1-5,bin,true,,26896,1319,5,5,https://casekaro.com/cdn/shop/products/MOUSEPAD-0006_284b2ae1-aa24-4a0b-83f4-e2ec42489889_360x.jpg?v=1593228216,53,0,0
+1706952693587,47,"mobilepad/cdn/shop/products/MOUSEPAD-0022-A_360x.jpg-2,544",200,OK,Thread Group 1-5,bin,true,,26510,1284,5,5,https://casekaro.com/cdn/shop/products/MOUSEPAD-0022-A_360x.jpg?v=1596187602,47,0,0
+1706952693486,182,"track/apps/sa/verify_cart.js-2,771",200,OK,Thread Group 1-3,text,true,,1501,1199,5,5,https://casekaro.com/apps/sa/verify_cart.js?shop=casekaro24.myshopify.com,182,0,0
+1706952693488,187,"track/apps/sa/verify_cart.js-2,823",200,OK,Thread Group 1-2,text,true,,1495,1199,5,5,https://casekaro.com/apps/sa/verify_cart.js?shop=casekaro24.myshopify.com,187,0,0
+1706952693300,381,"track/.well-known/shopify/monorail/v1/produce-2,830",200,OK,Thread Group 1-1,,true,,1118,9076,5,5,https://casekaro.com/.well-known/shopify/monorail/v1/produce,381,0,0
+1706952693461,362,"track/.well-known/shopify/monorail/unstable/produce_batch-2,725",200,OK,Thread Group 1-4,,true,,1118,2439,4,4,https://casekaro.com/.well-known/shopify/monorail/unstable/produce_batch,362,0,0
+1706952693635,404,"mobilepad/.well-known/shopify/monorail/v1/produce-2,548",200,OK,Thread Group 1-5,,true,,1114,7045,4,4,https://casekaro.com/.well-known/shopify/monorail/v1/produce,404,0,0
+1706952693676,378,"track/.well-known/shopify/monorail/v1/produce-2,830",200,OK,Thread Group 1-2,,true,,1118,9076,4,4,https://casekaro.com/.well-known/shopify/monorail/v1/produce,378,0,0
+1706952693669,423,"track/.well-known/shopify/monorail/v1/produce-2,773",200,OK,Thread Group 1-3,,true,,1120,9118,3,3,https://casekaro.com/.well-known/shopify/monorail/v1/produce,423,0,0
+1706952694040,129,"track/%3Cscript%20src=-2,697",404,Not Found,Thread Group 1-5,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[404]]]
+
+****** comparison: [[[200]]]
+
+/",25646,1216,3,3,https://casekaro.com/%3Cscript%20src=,129,0,0
+1706952693824,355,"track/.well-known/shopify/monorail/unstable/produce_batch-2,726",200,OK,Thread Group 1-4,,true,,1116,3279,3,3,https://casekaro.com/.well-known/shopify/monorail/unstable/produce_batch,355,0,0
+1706952694171,84,"track/checkouts/internal/preloads.js-2,700",200,OK,Thread Group 1-5,text,true,,2003,1285,3,3,https://casekaro.com/checkouts/internal/preloads.js?permanent-domain=casekaro24.myshopify.com&locale=en-IN,84,0,0
+1706952694093,212,"track/pages/track-order-1-2,776",200,OK,Thread Group 1-3,text,true,,25674,1352,3,3,https://casekaro.com/pages/track-order-1,212,0,0
+1706952694308,219,"track/pages/%3Cscript%20src=-2,782",404,Not Found,Thread Group 1-3,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[404]]]
+
+****** comparison: [[[200]]]
+
+/",25557,1189,3,3,https://casekaro.com/pages/%3Cscript%20src=,218,0,0
+1706952694180,354,"track/.well-known/shopify/monorail/unstable/produce_batch-2,738",200,OK,Thread Group 1-4,,true,,1126,2328,3,3,https://casekaro.com/.well-known/shopify/monorail/unstable/produce_batch,354,0,0
+1706952694528,71,"track/checkouts/internal/preloads.js-2,786",200,OK,Thread Group 1-3,text,true,,2009,1252,3,3,https://casekaro.com/checkouts/internal/preloads.js?permanent-domain=casekaro24.myshopify.com&locale=en-IN,71,0,0
+1706952694257,349,"track/.well-known/shopify/monorail/unstable/produce_batch-2,724",200,OK,Thread Group 1-5,,true,,1124,2230,3,3,https://casekaro.com/.well-known/shopify/monorail/unstable/produce_batch,349,0,0
+1706952694535,375,"track/.well-known/shopify/monorail/unstable/produce_batch-2,752",200,OK,Thread Group 1-4,,true,,1118,1823,3,3,https://casekaro.com/.well-known/shopify/monorail/unstable/produce_batch,375,0,0
+1706952694607,341,"track/.well-known/shopify/monorail/unstable/produce_batch-2,723",200,OK,Thread Group 1-5,,true,,1112,1582,3,3,https://casekaro.com/.well-known/shopify/monorail/unstable/produce_batch,341,0,0
+1706952694600,351,"track/.well-known/shopify/monorail/unstable/produce_batch-2,778",200,OK,Thread Group 1-3,,true,,1118,1785,3,3,https://casekaro.com/.well-known/shopify/monorail/unstable/produce_batch,351,0,0
+1706952694911,363,"track/.well-known/shopify/monorail/unstable/produce_batch-2,768",200,OK,Thread Group 1-4,,true,,1118,3695,3,3,https://casekaro.com/.well-known/shopify/monorail/unstable/produce_batch,363,0,0
+1706952694949,349,"track/.well-known/shopify/monorail/unstable/produce_batch-2,725",200,OK,Thread Group 1-5,,true,,1126,2439,3,3,https://casekaro.com/.well-known/shopify/monorail/unstable/produce_batch,349,0,0
+1706952694952,364,"track/.well-known/shopify/monorail/unstable/produce_batch-2,794",200,OK,Thread Group 1-3,,true,,1124,1549,3,3,https://casekaro.com/.well-known/shopify/monorail/unstable/produce_batch,364,0,0
+1706952695275,161,"track/apps/sa/verify_cart.js-2,771",200,OK,Thread Group 1-4,text,true,,1487,1199,3,3,https://casekaro.com/apps/sa/verify_cart.js?shop=casekaro24.myshopify.com,161,0,0
+1706952695317,345,"track/.well-known/shopify/monorail/unstable/produce_batch-2,796",200,OK,Thread Group 1-3,,true,,1120,2268,3,3,https://casekaro.com/.well-known/shopify/monorail/unstable/produce_batch,345,0,0
+1706952695299,365,"track/.well-known/shopify/monorail/unstable/produce_batch-2,726",200,OK,Thread Group 1-5,,true,,1118,3279,3,3,https://casekaro.com/.well-known/shopify/monorail/unstable/produce_batch,365,0,0
+1706952695438,409,"track/.well-known/shopify/monorail/v1/produce-2,773",200,OK,Thread Group 1-4,,true,,1130,9118,3,3,https://casekaro.com/.well-known/shopify/monorail/v1/produce,409,0,0
+1706952695847,140,"track/pages/track-order-1-2,776",200,OK,Thread Group 1-4,text,true,,25639,1352,3,3,https://casekaro.com/pages/track-order-1,140,0,0
+1706952695664,345,"track/.well-known/shopify/monorail/unstable/produce_batch-2,738",200,OK,Thread Group 1-5,,true,,1118,2328,3,3,https://casekaro.com/.well-known/shopify/monorail/unstable/produce_batch,345,0,0
+1706952695662,368,"track/.well-known/shopify/monorail/unstable/produce_batch-2,800",200,OK,Thread Group 1-3,,true,,1126,2465,3,3,https://casekaro.com/.well-known/shopify/monorail/unstable/produce_batch,368,0,0
+1706952695989,155,"track/pages/%3Cscript%20src=-2,782",404,Not Found,Thread Group 1-4,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[404]]]
+
+****** comparison: [[[200]]]
+
+/",25488,1189,3,3,https://casekaro.com/pages/%3Cscript%20src=,155,0,0
+1706952696145,85,"track/checkouts/internal/preloads.js-2,786",200,OK,Thread Group 1-4,text,true,,2005,1252,3,3,https://casekaro.com/checkouts/internal/preloads.js?permanent-domain=casekaro24.myshopify.com&locale=en-IN,85,0,0
+1706952696010,368,"track/.well-known/shopify/monorail/unstable/produce_batch-2,752",200,OK,Thread Group 1-5,,true,,1114,1823,3,3,https://casekaro.com/.well-known/shopify/monorail/unstable/produce_batch,368,0,0
+1706952696031,380,"track/.well-known/shopify/monorail/unstable/produce_batch-2,801",200,OK,Thread Group 1-3,,true,,1114,3271,3,3,https://casekaro.com/.well-known/shopify/monorail/unstable/produce_batch,380,0,0
+1706952696231,355,"track/.well-known/shopify/monorail/unstable/produce_batch-2,778",200,OK,Thread Group 1-4,,true,,1120,1785,3,3,https://casekaro.com/.well-known/shopify/monorail/unstable/produce_batch,355,0,0
+1706952696379,364,"track/.well-known/shopify/monorail/unstable/produce_batch-2,768",200,OK,Thread Group 1-5,,true,,1118,3695,3,3,https://casekaro.com/.well-known/shopify/monorail/unstable/produce_batch,364,0,0
+1706952696412,358,"track/.well-known/shopify/monorail/unstable/produce_batch-2,819",200,OK,Thread Group 1-3,,true,,1128,4775,3,3,https://casekaro.com/.well-known/shopify/monorail/unstable/produce_batch,358,0,0
+1706952696744,157,"track/apps/sa/verify_cart.js-2,771",200,OK,Thread Group 1-5,text,true,,1489,1199,3,3,https://casekaro.com/apps/sa/verify_cart.js?shop=casekaro24.myshopify.com,157,0,0
+1706952696587,367,"track/.well-known/shopify/monorail/unstable/produce_batch-2,794",200,OK,Thread Group 1-4,,true,,1120,1549,3,3,https://casekaro.com/.well-known/shopify/monorail/unstable/produce_batch,367,0,0
+1706952696771,190,"track/apps/sa/verify_cart.js-2,823",200,OK,Thread Group 1-3,text,true,,1495,1199,3,3,https://casekaro.com/apps/sa/verify_cart.js?shop=casekaro24.myshopify.com,190,0,0
+1706952696902,390,"track/.well-known/shopify/monorail/v1/produce-2,773",200,OK,Thread Group 1-5,,true,,1122,9118,3,3,https://casekaro.com/.well-known/shopify/monorail/v1/produce,390,0,0
+1706952696955,361,"track/.well-known/shopify/monorail/unstable/produce_batch-2,796",200,OK,Thread Group 1-4,,true,,1124,2268,3,3,https://casekaro.com/.well-known/shopify/monorail/unstable/produce_batch,361,0,0
+1706952696962,406,"track/.well-known/shopify/monorail/v1/produce-2,830",200,OK,Thread Group 1-3,,true,,1118,9076,3,3,https://casekaro.com/.well-known/shopify/monorail/v1/produce,406,0,0
+1706952697292,154,"track/pages/track-order-1-2,776",200,OK,Thread Group 1-5,text,true,,25575,1352,2,2,https://casekaro.com/pages/track-order-1,154,0,0
+1706952697449,137,"track/pages/%3Cscript%20src=-2,782",404,Not Found,Thread Group 1-5,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[404]]]
+
+****** comparison: [[[200]]]
+
+/",25658,1189,2,2,https://casekaro.com/pages/%3Cscript%20src=,137,0,0
+1706952697588,64,"track/checkouts/internal/preloads.js-2,786",200,OK,Thread Group 1-5,text,true,,2018,1252,2,2,https://casekaro.com/checkouts/internal/preloads.js?permanent-domain=casekaro24.myshopify.com&locale=en-IN,64,0,0
+1706952697317,350,"track/.well-known/shopify/monorail/unstable/produce_batch-2,800",200,OK,Thread Group 1-4,,true,,1126,2465,2,2,https://casekaro.com/.well-known/shopify/monorail/unstable/produce_batch,350,0,0
+1706952697653,350,"track/.well-known/shopify/monorail/unstable/produce_batch-2,778",200,OK,Thread Group 1-5,,true,,1122,1785,2,2,https://casekaro.com/.well-known/shopify/monorail/unstable/produce_batch,350,0,0
+1706952697668,359,"track/.well-known/shopify/monorail/unstable/produce_batch-2,801",200,OK,Thread Group 1-4,,true,,1116,3271,2,2,https://casekaro.com/.well-known/shopify/monorail/unstable/produce_batch,359,0,0
+1706952698004,357,"track/.well-known/shopify/monorail/unstable/produce_batch-2,794",200,OK,Thread Group 1-5,,true,,1122,1549,2,2,https://casekaro.com/.well-known/shopify/monorail/unstable/produce_batch,357,0,0
+1706952698028,369,"track/.well-known/shopify/monorail/unstable/produce_batch-2,819",200,OK,Thread Group 1-4,,true,,1126,4775,2,2,https://casekaro.com/.well-known/shopify/monorail/unstable/produce_batch,369,0,0
+1706952698398,188,"track/apps/sa/verify_cart.js-2,823",200,OK,Thread Group 1-4,text,true,,1489,1199,2,2,https://casekaro.com/apps/sa/verify_cart.js?shop=casekaro24.myshopify.com,188,0,0
+1706952698362,348,"track/.well-known/shopify/monorail/unstable/produce_batch-2,796",200,OK,Thread Group 1-5,,true,,1122,2268,2,2,https://casekaro.com/.well-known/shopify/monorail/unstable/produce_batch,348,0,0
+1706952698587,393,"track/.well-known/shopify/monorail/v1/produce-2,830",200,OK,Thread Group 1-4,,true,,1118,9076,2,2,https://casekaro.com/.well-known/shopify/monorail/v1/produce,393,0,0
+1706952698711,346,"track/.well-known/shopify/monorail/unstable/produce_batch-2,800",200,OK,Thread Group 1-5,,true,,1116,2465,1,1,https://casekaro.com/.well-known/shopify/monorail/unstable/produce_batch,346,0,0
+1706952699058,349,"track/.well-known/shopify/monorail/unstable/produce_batch-2,801",200,OK,Thread Group 1-5,,true,,1118,3271,1,1,https://casekaro.com/.well-known/shopify/monorail/unstable/produce_batch,349,0,0
+1706952699408,370,"track/.well-known/shopify/monorail/unstable/produce_batch-2,819",200,OK,Thread Group 1-5,,true,,1116,4775,1,1,https://casekaro.com/.well-known/shopify/monorail/unstable/produce_batch,370,0,0
+1706952699779,144,"track/apps/sa/verify_cart.js-2,823",200,OK,Thread Group 1-5,text,true,,1483,1199,1,1,https://casekaro.com/apps/sa/verify_cart.js?shop=casekaro24.myshopify.com,144,0,0
+1706952699925,400,"track/.well-known/shopify/monorail/v1/produce-2,830",200,OK,Thread Group 1-5,,true,,1122,9076,1,1,https://casekaro.com/.well-known/shopify/monorail/v1/produce,400,0,0

@@ -1,0 +1,36 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,URL,Latency,IdleTime,Connect
+1705474640715,1812,Home PageHTTP Request,200,OK,Thread Group1 1-1,text,true,,135447,238,1,1,https://www.linkedin.com/,697,0,419
+1705474640715,704,Home PageHTTP Request-0,301,Moved Permanently,Thread Group1 1-1,,true,,366,117,1,1,https://linkedin.com/,697,0,419
+1705474641437,1090,Home PageHTTP Request-1,200,OK,Thread Group1 1-1,text,true,,135081,121,1,1,https://www.linkedin.com/,427,0,73
+1705474642538,1468,Invalid Page HTTP Request,404,Not Found,Thread Group1 1-1,text,false,,323258,788,1,1,https://www.linkedin.com/uas/login-submit,231,0,0
+1705474642538,231,Invalid Page HTTP Request-0,301,Moved Permanently,Thread Group1 1-1,,true,,382,325,1,1,https://linkedin.com/uas/login-submit,231,0,0
+1705474642769,1237,Invalid Page HTTP Request-1,404,Not Found,Thread Group1 1-1,text,false,,322876,463,1,1,https://www.linkedin.com/uas/login-submit,265,0,0
+1705474644008,444,Forgot HTTP Request,999,Request denied,Thread Group1 1-1,text,false,,25318,415,1,1,https://linkedin.com/uas/request-password-reset?trk=homepage-basic_forgot_pasword&original_refer=https%3A%2Fwww.linkedin.com%2F,232,0,0
+1705474644632,1403,Home PageHTTP Request,200,OK,Thread Group1 1-2,text,true,,135447,238,1,1,https://www.linkedin.com/,325,0,66
+1705474644632,325,Home PageHTTP Request-0,301,Moved Permanently,Thread Group1 1-2,,true,,366,117,1,1,https://linkedin.com/,325,0,66
+1705474644958,1077,Home PageHTTP Request-1,200,OK,Thread Group1 1-2,text,true,,135081,121,1,1,https://www.linkedin.com/,398,0,58
+1705474646039,1425,Invalid Page HTTP Request,404,Not Found,Thread Group1 1-2,text,false,,323258,788,1,1,https://www.linkedin.com/uas/login-submit,233,0,0
+1705474646039,233,Invalid Page HTTP Request-0,301,Moved Permanently,Thread Group1 1-2,,true,,382,325,1,1,https://linkedin.com/uas/login-submit,233,0,0
+1705474646272,1192,Invalid Page HTTP Request-1,404,Not Found,Thread Group1 1-2,text,false,,322876,463,1,1,https://www.linkedin.com/uas/login-submit,263,0,0
+1705474647466,445,Forgot HTTP Request,999,Request denied,Thread Group1 1-2,text,false,,25318,415,1,1,https://linkedin.com/uas/request-password-reset?trk=homepage-basic_forgot_pasword&original_refer=https%3A%2Fwww.linkedin.com%2F,230,0,0
+1705474648630,1365,Home PageHTTP Request,200,OK,Thread Group1 1-3,text,true,,136263,238,1,1,https://www.linkedin.com/,335,0,79
+1705474648630,335,Home PageHTTP Request-0,301,Moved Permanently,Thread Group1 1-3,,true,,366,117,1,1,https://linkedin.com/,335,0,79
+1705474648967,1028,Home PageHTTP Request-1,200,OK,Thread Group1 1-3,text,true,,135897,121,1,1,https://www.linkedin.com/,388,0,53
+1705474649996,1373,Invalid Page HTTP Request,404,Not Found,Thread Group1 1-3,text,false,,323526,788,1,1,https://www.linkedin.com/uas/login-submit,229,0,0
+1705474649996,229,Invalid Page HTTP Request-0,301,Moved Permanently,Thread Group1 1-3,,true,,382,325,1,1,https://linkedin.com/uas/login-submit,229,0,0
+1705474650226,1143,Invalid Page HTTP Request-1,404,Not Found,Thread Group1 1-3,text,false,,323144,463,1,1,https://www.linkedin.com/uas/login-submit,260,0,0
+1705474651373,444,Forgot HTTP Request,999,Request denied,Thread Group1 1-3,text,false,,25318,415,1,1,https://linkedin.com/uas/request-password-reset?trk=homepage-basic_forgot_pasword&original_refer=https%3A%2Fwww.linkedin.com%2F,233,0,0
+1705474652628,1673,Home PageHTTP Request,200,OK,Thread Group1 1-4,text,true,,135447,238,1,1,https://www.linkedin.com/,364,0,105
+1705474652628,364,Home PageHTTP Request-0,301,Moved Permanently,Thread Group1 1-4,,true,,366,117,1,1,https://linkedin.com/,364,0,105
+1705474652994,1307,Home PageHTTP Request-1,200,OK,Thread Group1 1-4,text,true,,135081,121,1,1,https://www.linkedin.com/,546,0,174
+1705474654303,1650,Invalid Page HTTP Request,404,Not Found,Thread Group1 1-4,text,false,,323258,788,1,1,https://www.linkedin.com/uas/login-submit,259,0,0
+1705474654303,259,Invalid Page HTTP Request-0,301,Moved Permanently,Thread Group1 1-4,,true,,382,325,1,1,https://linkedin.com/uas/login-submit,259,0,0
+1705474654562,1391,Invalid Page HTTP Request-1,404,Not Found,Thread Group1 1-4,text,false,,322876,463,1,1,https://www.linkedin.com/uas/login-submit,287,0,0
+1705474655954,511,Forgot HTTP Request,999,Request denied,Thread Group1 1-4,text,false,,25318,415,1,1,https://linkedin.com/uas/request-password-reset?trk=homepage-basic_forgot_pasword&original_refer=https%3A%2Fwww.linkedin.com%2F,262,0,0
+1705474656628,1265,Home PageHTTP Request,200,OK,Thread Group1 1-5,text,true,,135447,238,1,1,https://www.linkedin.com/,325,0,60
+1705474656628,325,Home PageHTTP Request-0,301,Moved Permanently,Thread Group1 1-5,,true,,366,117,1,1,https://linkedin.com/,325,0,60
+1705474656954,939,Home PageHTTP Request-1,200,OK,Thread Group1 1-5,text,true,,135081,121,1,1,https://www.linkedin.com/,445,0,48
+1705474657895,1571,Invalid Page HTTP Request,404,Not Found,Thread Group1 1-5,text,false,,323258,788,1,1,https://www.linkedin.com/uas/login-submit,266,0,0
+1705474657895,266,Invalid Page HTTP Request-0,301,Moved Permanently,Thread Group1 1-5,,true,,382,325,1,1,https://linkedin.com/uas/login-submit,266,0,0
+1705474658162,1304,Invalid Page HTTP Request-1,404,Not Found,Thread Group1 1-5,text,false,,322876,463,1,1,https://www.linkedin.com/uas/login-submit,299,0,0
+1705474659468,523,Forgot HTTP Request,999,Request denied,Thread Group1 1-5,text,false,,25318,415,1,1,https://linkedin.com/uas/request-password-reset?trk=homepage-basic_forgot_pasword&original_refer=https%3A%2Fwww.linkedin.com%2F,266,0,0
